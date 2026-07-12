@@ -6,6 +6,14 @@ This project follows an end-to-end analytics workflow starting from raw data cle
 
 ---
 
+# 🌐 Live Dashboard
+
+🚀 Explore the live interactive dashboard here:
+
+**👉 https://factsatyamp-eivrfhwlvsznxv2zlpkjhu.streamlit.app/**
+
+---
+
 # 📖 Project Overview
 
 Efficient logistics and transportation management are critical for large-scale distributors. Shipping delays, inefficient routes, and regional bottlenecks can significantly impact customer satisfaction, operational costs, and overall business performance.
