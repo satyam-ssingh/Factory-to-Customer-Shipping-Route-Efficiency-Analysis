@@ -1,0 +1,22 @@
+Insight #,Insight
+1,"ANOVA — Sales: F=1.4048, p=0.024064 → State effect significant: Yes"
+2,"ANOVA — Gross Profit: F=1.4182, p=0.021024 → State effect significant: Yes"
+3,"ANOVA — Shipping Lead Time (Simulated): F=2.5611, p=0.0 → State effect significant: Yes"
+4,Best Overall Ranked State (composite score): Ohio
+5,Worst Overall Ranked State (composite score): Wyoming
+6,"Highest Sales State: California ($27,183.18)"
+7,Lowest Sales State: Wyoming ($13.96)
+8,"Highest Profit State: California ($17,980.72)"
+9,Lowest Profit State: Wyoming ($9.96)
+10,Best Profit Margin State: Wyoming (71.35% avg margin)
+11,Fastest Shipping State: Manitoba (3.64 days avg lead time)
+12,Slowest Shipping State: Wyoming (6.00 days avg lead time)
+13,Highest Delay State: Wyoming (100.00% delayed)
+14,Lowest Delay State: West Virginia (0.00% delayed)
+15,"Most Shipments State: California (1,937 orders = 19.6% of all)"
+16,Highest Route Efficiency State: South Carolina
+17,Lowest Route Efficiency State: Wyoming
+18,"Top Improvement Opportunity: Pennsylvania — high sales ($7,846.75) but elevated delay rate (31.93%)"
+19,"Combined Total Revenue (all states): $138,284.12"
+20,"Combined Total Gross Profit (all states): $91,076.41"
+21,Overall Average Lead Time (all states): 4.60 days

@@ -1,0 +1,21 @@
+Factory -> Region Route,Total_Shipments,Total_Sales,Total_Profit,Avg_Lead_Time
+Lot's O' Nuts -> Pacific,1754,23599.74,16306.64,4.36
+Lot's O' Nuts -> Atlantic,1609,21555.81,14893.61,4.33
+Wicked Choccy's -> Pacific,1304,18083.50,11779.38,4.40
+Lot's O' Nuts -> Interior,1279,17397.63,12033.43,4.49
+Wicked Choccy's -> Atlantic,1153,14981.00,9757.28,4.39
+Wicked Choccy's -> Interior,921,12125.00,7897.20,4.48
+Lot's O' Nuts -> Gulf,871,11734.71,8114.01,4.41
+Wicked Choccy's -> Gulf,640,8716.00,5676.68,4.45
+Secret Factory -> Atlantic,72,2991.25,1499.85,4.49
+Secret Factory -> Pacific,63,3076.25,1558.05,3.90
+Secret Factory -> Interior,45,1590.00,806.80,4.09
+The Other Factory -> Atlantic,38,506.75,54.75,4.71
+Secret Factory -> Gulf,37,930.00,480.00,4.00
+The Other Factory -> Pacific,32,386.25,61.25,4.09
+The Other Factory -> Gulf,19,262.50,26.50,4.00
+Sugar Shack -> Atlantic,18,118.61,63.81,4.28
+The Other Factory -> Interior,11,126.75,9.75,4.27
+Sugar Shack -> Interior,8,44.74,23.39,4.25
+Sugar Shack -> Gulf,4,38.39,23.24,4.25
+Sugar Shack -> Pacific,3,19.24,10.79,4.67

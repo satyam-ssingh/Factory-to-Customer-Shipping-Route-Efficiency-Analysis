@@ -1,0 +1,5 @@
+Region,Sales Rank,Profit Rank,Shipment Rank,Lead Time Rank,Delay Rank,Margin Rank,Efficiency Rank,Overall Rank
+Pacific,1,1,1,2,2,2,1,1
+Atlantic,2,2,2,1,1,4,3,2
+Interior,3,3,3,4,4,1,4,3
+Gulf,4,4,4,3,3,3,2,4

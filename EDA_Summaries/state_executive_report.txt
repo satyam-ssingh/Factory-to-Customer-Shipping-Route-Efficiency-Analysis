@@ -1,0 +1,111 @@
+============================================================
+EXECUTIVE REPORT — STATE-LEVEL SHIPPING PERFORMANCE
+Factory-to-Customer Shipping Route Efficiency Analysis
+Nassau Candy Distributor
+Generated: 2026-07-11 17:34
+============================================================
+
+============================================================
+EXECUTIVE SUMMARY
+============================================================
+This report presents a comprehensive state-level analysis of shipping performance across 59 states and provinces served by Nassau Candy Distributor. The analysis covers total sales, gross profit, shipping lead time, delay rates and route efficiency, and concludes with data-driven business recommendations.
+
+============================================================
+KEY FINDINGS
+============================================================
+  • Highest Sales State       : California ($27,183.18)
+  • Highest Profit State      : California ($17,980.72)
+  • Fastest Shipping State    : Manitoba (3.64 days avg)
+  • Slowest Shipping State    : Wyoming (6.00 days avg)
+  • Lowest Delay State        : West Virginia
+  • Highest Delay State       : Wyoming
+  • Total Revenue (all states): $138,284.12
+  • Total Gross Profit        : $91,076.41
+  • Overall Avg Lead Time     : 4.60 days
+
+============================================================
+TOP 10 OVERALL STATE RANKINGS
+============================================================
+  Rank  1: Ohio
+  Rank  2: Colorado
+  Rank  3: California
+  Rank  4: Virginia
+  Rank  5: New York
+  Rank  6: Florida
+  Rank  7: Connecticut
+  Rank  8: Texas
+  Rank  9: Rhode Island
+  Rank 10: South Carolina
+
+============================================================
+STATISTICAL SIGNIFICANCE (ANOVA)
+============================================================
+  • Sales: F=1.4048, p=0.024064 (State effect significant: Yes)
+  • Gross Profit: F=1.4182, p=0.021024 (State effect significant: Yes)
+  • Shipping Lead Time (Simulated): F=2.5611, p=0.0 (State effect significant: Yes)
+
+============================================================
+BUSINESS INSIGHTS
+============================================================
+  • ANOVA — Sales: F=1.4048, p=0.024064 → State effect significant: Yes
+  • ANOVA — Gross Profit: F=1.4182, p=0.021024 → State effect significant: Yes
+  • ANOVA — Shipping Lead Time (Simulated): F=2.5611, p=0.0 → State effect significant: Yes
+  • Best Overall Ranked State (composite score): Ohio
+  • Worst Overall Ranked State (composite score): Wyoming
+  • Highest Sales State: California ($27,183.18)
+  • Lowest Sales State: Wyoming ($13.96)
+  • Highest Profit State: California ($17,980.72)
+  • Lowest Profit State: Wyoming ($9.96)
+  • Best Profit Margin State: Wyoming (71.35% avg margin)
+  • Fastest Shipping State: Manitoba (3.64 days avg lead time)
+  • Slowest Shipping State: Wyoming (6.00 days avg lead time)
+  • Highest Delay State: Wyoming (100.00% delayed)
+  • Lowest Delay State: West Virginia (0.00% delayed)
+  • Most Shipments State: California (1,937 orders = 19.6% of all)
+  • Highest Route Efficiency State: South Carolina
+  • Lowest Route Efficiency State: Wyoming
+  • Top Improvement Opportunity: Pennsylvania — high sales ($7,846.75) but elevated delay rate (31.93%)
+  • Combined Total Revenue (all states): $138,284.12
+  • Combined Total Gross Profit (all states): $91,076.41
+  • Overall Average Lead Time (all states): 4.60 days
+
+============================================================
+RECOMMENDATIONS
+============================================================
+1. INVENTORY ALLOCATION
+   Prioritize safety stock in California, New York, Texas — these states generate the highest cumulative sales. Aligning warehouse buffer levels with seasonal demand peaks in these markets will reduce stockout risk.
+
+2. CARRIER OPTIMIZATION
+   Renegotiate carrier SLAs or introduce alternative carriers for Wyoming, Vermont, Prince Edward Island, Saskatchewan, Maine — these states consistently record the longest average shipping lead times and are prime candidates for expedited or dedicated lane agreements.
+
+3. DELAY REDUCTION
+   States with delay rates above 35%: Wyoming, Vermont, Newfoundland and Labrador, Prince Edward Island, Maine. Introduce real-time shipment tracking, buffer days for Standard Class routes into these states, and set up proactive exception alerts for orders approaching the SLA breach threshold.
+
+4. WAREHOUSE PLANNING
+   Evaluate regional distribution center (DC) placement near California, New York, Texas, Pennsylvania, Washington to reduce last-mile lead times. A DC positioned centrally within the highest-volume cluster could simultaneously serve multiple top-10 states and reduce cross-country freight costs.
+
+5. ROUTE OPTIMIZATION
+   Review factory-to-state routing for Wyoming, Vermont, Prince Edward Island, Saskatchewan, Maine. Shifting volume from Standard Class to Second Class on these routes, or introducing direct factory-to-DC consolidation lanes, may yield meaningful lead-time reductions without proportional cost increases.
+
+6. COST REDUCTION
+   Total cost concentration is highest in California, New York, Texas, Pennsylvania, Washington. Conduct a cost-per-unit benchmark against comparable routes and identify consolidation opportunities (e.g., full-truckload vs. LTL) to lower per-shipment costs in these markets.
+
+7. REGIONAL EXPANSION
+   Low-penetration states: Wyoming, Saskatchewan, West Virginia, Nova Scotia, North Dakota. Assess whether these markets represent genuinely low demand or are simply under-served by current distribution infrastructure. A targeted promotional campaign combined with reduced shipping thresholds could stimulate incremental volume.
+
+8. RESOURCE ALLOCATION
+   Direct field sales and customer success resources towards Ohio, Colorado, California, Virginia, New York — the top composite-ranked states that combine strong revenue, low delay rates and high route efficiency. Protecting and expanding share in best-performing markets delivers the highest return on resource investment.
+
+============================================================
+CONCLUSION
+============================================================
+State-level shipping performance varies significantly across Nassau
+Candy Distributor's geographic footprint. By concentrating resources
+in high-performing markets, reducing delay rates in identified
+hotspot states, and optimizing carrier and route assignments, the
+company can materially improve customer satisfaction, reduce
+logistics costs, and accelerate revenue growth across all regions.
+
+============================================================
+END OF REPORT
+============================================================

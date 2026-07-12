@@ -1,0 +1,13 @@
+Model,Class,AUC
+logistic_regression,Delayed,0.7752
+logistic_regression,Moderate Delay,0.7059
+logistic_regression,On Time,0.9768
+decision_tree,Delayed,0.7674
+decision_tree,Moderate Delay,0.6941
+decision_tree,On Time,0.9760
+random_forest,Delayed,0.7865
+random_forest,Moderate Delay,0.7135
+random_forest,On Time,0.9789
+gradient_boosting,Delayed,0.7860
+gradient_boosting,Moderate Delay,0.7112
+gradient_boosting,On Time,0.9775

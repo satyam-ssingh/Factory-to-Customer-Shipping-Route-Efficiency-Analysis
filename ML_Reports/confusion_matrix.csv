@@ -1,0 +1,37 @@
+Model,True_Label,Predicted_Label,Count
+logistic_regression,Delayed,Delayed,200
+logistic_regression,Delayed,Moderate Delay,385
+logistic_regression,Delayed,On Time,0
+logistic_regression,Moderate Delay,Delayed,219
+logistic_regression,Moderate Delay,Moderate Delay,637
+logistic_regression,Moderate Delay,On Time,1
+logistic_regression,On Time,Delayed,0
+logistic_regression,On Time,Moderate Delay,134
+logistic_regression,On Time,On Time,401
+decision_tree,Delayed,Delayed,293
+decision_tree,Delayed,Moderate Delay,292
+decision_tree,Delayed,On Time,0
+decision_tree,Moderate Delay,Delayed,331
+decision_tree,Moderate Delay,Moderate Delay,518
+decision_tree,Moderate Delay,On Time,8
+decision_tree,On Time,Delayed,0
+decision_tree,On Time,Moderate Delay,132
+decision_tree,On Time,On Time,403
+random_forest,Delayed,Delayed,265
+random_forest,Delayed,Moderate Delay,320
+random_forest,Delayed,On Time,0
+random_forest,Moderate Delay,Delayed,268
+random_forest,Moderate Delay,Moderate Delay,576
+random_forest,Moderate Delay,On Time,13
+random_forest,On Time,Delayed,0
+random_forest,On Time,Moderate Delay,127
+random_forest,On Time,On Time,408
+gradient_boosting,Delayed,Delayed,270
+gradient_boosting,Delayed,Moderate Delay,315
+gradient_boosting,Delayed,On Time,0
+gradient_boosting,Moderate Delay,Delayed,279
+gradient_boosting,Moderate Delay,Moderate Delay,572
+gradient_boosting,Moderate Delay,On Time,6
+gradient_boosting,On Time,Delayed,0
+gradient_boosting,On Time,Moderate Delay,132
+gradient_boosting,On Time,On Time,403

@@ -1,0 +1,29 @@
+Insight #,Insight
+1,"Best Factory by Total Sales: Lot's O' Nuts ($74,287.89)"
+2,Worst Factory by Total Sales: Sugar Shack ($220.98)
+3,"Highest Profit Factory: Lot's O' Nuts ($51,347.69)"
+4,Lowest Profit Factory: Sugar Shack ($121.23)
+5,Highest Profit Margin Factory: Lot's O' Nuts (69.16%)
+6,"Highest Sales State: California ($27,183.18)"
+7,Lowest Sales State: Wyoming ($13.96)
+8,"Highest Profit State: California ($17,980.72)"
+9,"Best Region by Sales: Pacific ($45,164.98)"
+10,"Worst Region by Sales: Gulf ($21,681.60)"
+11,"Highest Selling Product: Wonka Bar - Triple Dazzle Caramel ($27,648.75)"
+12,Lowest Selling Product: Fun Dip ($12.00)
+13,"Most Profitable Product: Wonka Bar -Scrumdiddlyumptious ($18,770.00)"
+14,Fastest Ship Mode (Avg Lead Time): Same Day (0.51 days)
+15,Slowest Ship Mode (Avg Lead Time): Standard Class (5.48 days)
+16,"Most Used Ship Mode: Standard Class (5,939 orders = 60.1%)"
+17,Fastest Route: The Other Factory -> North Carolina (0.00 days)
+18,Slowest Route: Secret Factory -> Utah (7.00 days)
+19,"Highest Efficiency Route (Most Orders): Lot's O' Nuts -> California (1,088 orders)"
+20,Overall On-Time Rate: 27.1%
+21,Overall Delayed Rate: 29.6%
+22,Highest Delay Rate Factory: The Other Factory (32.0%)
+23,"Total Revenue across all orders: $138,284.12"
+24,"Total Gross Profit: $91,076.41"
+25,Overall Average Profit Margin: 66.48%
+26,Dominant Division: Chocolate (92.7% of total sales)
+27,"Highest Order Volume State: California (1,937 orders)"
+28,Canadian Orders: 2.0% of all records

@@ -1,0 +1,57 @@
+EXECUTIVE REPORT — SHIP MODE PERFORMANCE
+Factory-to-Customer Shipping Route Efficiency Analysis
+Nassau Candy Distributor
+============================================================
+
+Best Ship Mode (Sales)        : Standard Class
+Fastest Ship Mode             : Same Day
+Highest Profit Ship Mode      : Standard Class
+Lowest Delay Ship Mode        : Same Day
+
+KEY FINDINGS
+------------------------------------------------------------
+  - Best Ship Mode by Sales: Standard Class ($83,363.18)
+  - Fastest Ship Mode: Same Day (0.51 days average lead time)
+  - Highest Profit Ship Mode: Standard Class ($54,987.13)
+  - Lowest Delay Ship Mode: Same Day (0.00% delayed)
+  - Highest Delay Ship Mode: Standard Class (49.23% delayed)
+  - Most Used Ship Mode: Standard Class (5,939 shipments = 60.1% of all orders)
+  - Highest Average Profit Margin: Standard Class (66.52%)
+  - Best On-Time Rate: Same Day (100.00% on time)
+  - Trade-off identified: Same Day is fastest, while Standard Class drives the most sales volume - indicating a speed vs. revenue concentration trade-off.
+  - ANOVA on Sales: F=1.2967, p=0.273633 -> Ship Mode effect significant: No
+  - ANOVA on Gross Profit: F=1.564, p=0.195865 -> Ship Mode effect significant: No
+  - ANOVA on Shipping Lead Time (Simulated): F=8031.5763, p=0.0 -> Ship Mode effect significant: Yes
+  - High Delay Risk Ship Mode(s): Standard Class
+  - Overall Best-Ranked Ship Mode (composite score): Second Class
+
+STATISTICAL SIGNIFICANCE (ANOVA)
+------------------------------------------------------------
+  - Sales: F=1.2967, p=0.273633 (Significant: No)
+  - Gross Profit: F=1.564, p=0.195865 (Significant: No)
+  - Shipping Lead Time (Simulated): F=8031.5763, p=0.0 (Significant: Yes)
+
+OVERALL SHIP MODE RANKING
+------------------------------------------------------------
+  Rank 1: Second Class
+  Rank 2: First Class
+  Rank 3: Same Day
+  Rank 3: Standard Class
+
+BUSINESS RECOMMENDATIONS
+------------------------------------------------------------
+1. Best Overall Ship Mode: 'Second Class' delivers the strongest balance of sales, profit, speed and reliability. Prioritize this mode for high-value or time-sensitive shipments.
+
+2. Worst Overall Ship Mode: 'Standard Class' ranks lowest across the composite KPI score. Review its cost structure, carrier performance, and routing logic.
+
+3. Delay Reduction: Standard Class show High delay risk. Consider renegotiating carrier SLAs, adding buffer capacity during peak periods, or shifting volume to faster alternatives.
+
+4. Profit Improvement: 'First Class' has the lowest average profit margin (66.42%). Investigate cost-to-serve and consider targeted pricing or cost-reduction initiatives for this mode.
+
+5. Route Optimization: 'Standard Class' has the longest average lead time (5.48 days) versus 'Same Day' at 0.51 days. Re-evaluate routing and carrier allocation on the slowest factory-to-state routes within this mode.
+
+6. Capacity Planning: align fleet/carrier capacity with the highest-volume Ship Mode to avoid bottlenecks during demand spikes, while maintaining service levels on lower-volume, premium modes.
+
+CONCLUSION
+------------------------------------------------------------
+Ship Mode is a material driver of shipping speed, cost and customer experience for Nassau Candy Distributor. Standardizing route assignment around the best-ranked Ship Mode, while actively managing delay risk on weaker modes, offers a clear, data-driven path to improving logistics efficiency and profitability nationwide.

@@ -1,0 +1,178 @@
+State/Province,Column,Lower Fence,Upper Fence,Total Records,Outlier Count,Outlier %
+Maine,Gross Profit,-6.12,23.27,7,1,14.29
+North Dakota,Gross Profit,-6.12,23.27,7,1,14.29
+Vermont,Gross Profit,-6.12,23.27,11,1,9.09
+Alberta,Gross Profit,-6.12,23.27,25,2,8.00
+Nevada,Gross Profit,-6.12,23.27,39,2,5.13
+Oregon,Gross Profit,-6.12,23.27,120,6,5.00
+Arizona,Gross Profit,-6.12,23.27,218,9,4.13
+Mississippi,Gross Profit,-6.12,23.27,52,2,3.85
+Utah,Gross Profit,-6.12,23.27,52,2,3.85
+Wisconsin,Gross Profit,-6.12,23.27,109,4,3.67
+Alabama,Gross Profit,-6.12,23.27,60,2,3.33
+Iowa,Gross Profit,-6.12,23.27,30,1,3.33
+Washington,Gross Profit,-6.12,23.27,494,15,3.04
+Kentucky,Gross Profit,-6.12,23.27,134,4,2.99
+New York,Gross Profit,-6.12,23.27,1092,32,2.93
+North Carolina,Gross Profit,-6.12,23.27,244,7,2.87
+Georgia,Gross Profit,-6.12,23.27,178,5,2.81
+Virginia,Gross Profit,-6.12,23.27,218,6,2.75
+Nebraska,Gross Profit,-6.12,23.27,37,1,2.70
+Ohio,Gross Profit,-6.12,23.27,449,12,2.67
+Minnesota,Gross Profit,-6.12,23.27,85,2,2.35
+Massachusetts,Gross Profit,-6.12,23.27,130,3,2.31
+California,Gross Profit,-6.12,23.27,1937,42,2.17
+Quebec,Gross Profit,-6.12,23.27,49,1,2.04
+Pennsylvania,Gross Profit,-6.12,23.27,570,11,1.93
+Illinois,Gross Profit,-6.12,23.27,478,9,1.88
+Rhode Island,Gross Profit,-6.12,23.27,55,1,1.82
+Arkansas,Gross Profit,-6.12,23.27,56,1,1.79
+Ontario,Gross Profit,-6.12,23.27,56,1,1.79
+Colorado,Gross Profit,-6.12,23.27,173,3,1.73
+Michigan,Gross Profit,-6.12,23.27,249,4,1.61
+Missouri,Gross Profit,-6.12,23.27,64,1,1.56
+Oklahoma,Gross Profit,-6.12,23.27,65,1,1.54
+Texas,Gross Profit,-6.12,23.27,952,14,1.47
+Indiana,Gross Profit,-6.12,23.27,144,2,1.39
+Delaware,Gross Profit,-6.12,23.27,92,1,1.09
+Florida,Gross Profit,-6.12,23.27,368,4,1.09
+Maryland,Gross Profit,-6.12,23.27,100,1,1.00
+British Columbia,Gross Profit,-6.12,23.27,22,0,0.00
+Connecticut,Gross Profit,-6.12,23.27,81,0,0.00
+District of Columbia,Gross Profit,-6.12,23.27,10,0,0.00
+Idaho,Gross Profit,-6.12,23.27,21,0,0.00
+Kansas,Gross Profit,-6.12,23.27,23,0,0.00
+Louisiana,Gross Profit,-6.12,23.27,41,0,0.00
+Manitoba,Gross Profit,-6.12,23.27,11,0,0.00
+Montana,Gross Profit,-6.12,23.27,15,0,0.00
+New Brunswick,Gross Profit,-6.12,23.27,8,0,0.00
+New Hampshire,Gross Profit,-6.12,23.27,27,0,0.00
+New Jersey,Gross Profit,-6.12,23.27,128,0,0.00
+New Mexico,Gross Profit,-6.12,23.27,37,0,0.00
+Newfoundland and Labrador,Gross Profit,-6.12,23.27,5,0,0.00
+Nova Scotia,Gross Profit,-6.12,23.27,6,0,0.00
+Prince Edward Island,Gross Profit,-6.12,23.27,10,0,0.00
+Saskatchewan,Gross Profit,-6.12,23.27,2,0,0.00
+South Carolina,Gross Profit,-6.12,23.27,40,0,0.00
+South Dakota,Gross Profit,-6.12,23.27,10,0,0.00
+Tennessee,Gross Profit,-6.12,23.27,180,0,0.00
+West Virginia,Gross Profit,-6.12,23.27,4,0,0.00
+Wyoming,Gross Profit,-6.12,23.27,1,0,0.00
+Maine,Sales,-9.00,34.20,7,1,14.29
+North Dakota,Sales,-9.00,34.20,7,1,14.29
+Vermont,Sales,-9.00,34.20,11,1,9.09
+Alberta,Sales,-9.00,34.20,25,2,8.00
+Oregon,Sales,-9.00,34.20,120,7,5.83
+Nevada,Sales,-9.00,34.20,39,2,5.13
+Alabama,Sales,-9.00,34.20,60,3,5.00
+Arizona,Sales,-9.00,34.20,218,9,4.13
+Quebec,Sales,-9.00,34.20,49,2,4.08
+Mississippi,Sales,-9.00,34.20,52,2,3.85
+Utah,Sales,-9.00,34.20,52,2,3.85
+Kentucky,Sales,-9.00,34.20,134,5,3.73
+Wisconsin,Sales,-9.00,34.20,109,4,3.67
+Rhode Island,Sales,-9.00,34.20,55,2,3.64
+Washington,Sales,-9.00,34.20,494,17,3.44
+Iowa,Sales,-9.00,34.20,30,1,3.33
+New York,Sales,-9.00,34.20,1092,35,3.21
+Virginia,Sales,-9.00,34.20,218,7,3.21
+Ohio,Sales,-9.00,34.20,449,13,2.90
+North Carolina,Sales,-9.00,34.20,244,7,2.87
+Georgia,Sales,-9.00,34.20,178,5,2.81
+Nebraska,Sales,-9.00,34.20,37,1,2.70
+California,Sales,-9.00,34.20,1937,49,2.53
+Pennsylvania,Sales,-9.00,34.20,570,14,2.46
+Louisiana,Sales,-9.00,34.20,41,1,2.44
+Minnesota,Sales,-9.00,34.20,85,2,2.35
+Colorado,Sales,-9.00,34.20,173,4,2.31
+Massachusetts,Sales,-9.00,34.20,130,3,2.31
+Illinois,Sales,-9.00,34.20,478,11,2.30
+Arkansas,Sales,-9.00,34.20,56,1,1.79
+Ontario,Sales,-9.00,34.20,56,1,1.79
+Michigan,Sales,-9.00,34.20,249,4,1.61
+Missouri,Sales,-9.00,34.20,64,1,1.56
+Oklahoma,Sales,-9.00,34.20,65,1,1.54
+Texas,Sales,-9.00,34.20,952,14,1.47
+Indiana,Sales,-9.00,34.20,144,2,1.39
+Connecticut,Sales,-9.00,34.20,81,1,1.23
+Delaware,Sales,-9.00,34.20,92,1,1.09
+Florida,Sales,-9.00,34.20,368,4,1.09
+Maryland,Sales,-9.00,34.20,100,1,1.00
+Tennessee,Sales,-9.00,34.20,180,1,0.56
+British Columbia,Sales,-9.00,34.20,22,0,0.00
+District of Columbia,Sales,-9.00,34.20,10,0,0.00
+Idaho,Sales,-9.00,34.20,21,0,0.00
+Kansas,Sales,-9.00,34.20,23,0,0.00
+Manitoba,Sales,-9.00,34.20,11,0,0.00
+Montana,Sales,-9.00,34.20,15,0,0.00
+New Brunswick,Sales,-9.00,34.20,8,0,0.00
+New Hampshire,Sales,-9.00,34.20,27,0,0.00
+New Jersey,Sales,-9.00,34.20,128,0,0.00
+New Mexico,Sales,-9.00,34.20,37,0,0.00
+Newfoundland and Labrador,Sales,-9.00,34.20,5,0,0.00
+Nova Scotia,Sales,-9.00,34.20,6,0,0.00
+Prince Edward Island,Sales,-9.00,34.20,10,0,0.00
+Saskatchewan,Sales,-9.00,34.20,2,0,0.00
+South Carolina,Sales,-9.00,34.20,40,0,0.00
+South Dakota,Sales,-9.00,34.20,10,0,0.00
+West Virginia,Sales,-9.00,34.20,4,0,0.00
+Wyoming,Sales,-9.00,34.20,1,0,0.00
+Alabama,Shipping Lead Time (Simulated),-1.50,10.50,60,0,0.00
+Alberta,Shipping Lead Time (Simulated),-1.50,10.50,25,0,0.00
+Arizona,Shipping Lead Time (Simulated),-1.50,10.50,218,0,0.00
+Arkansas,Shipping Lead Time (Simulated),-1.50,10.50,56,0,0.00
+British Columbia,Shipping Lead Time (Simulated),-1.50,10.50,22,0,0.00
+California,Shipping Lead Time (Simulated),-1.50,10.50,1937,0,0.00
+Colorado,Shipping Lead Time (Simulated),-1.50,10.50,173,0,0.00
+Connecticut,Shipping Lead Time (Simulated),-1.50,10.50,81,0,0.00
+Delaware,Shipping Lead Time (Simulated),-1.50,10.50,92,0,0.00
+District of Columbia,Shipping Lead Time (Simulated),-1.50,10.50,10,0,0.00
+Florida,Shipping Lead Time (Simulated),-1.50,10.50,368,0,0.00
+Georgia,Shipping Lead Time (Simulated),-1.50,10.50,178,0,0.00
+Idaho,Shipping Lead Time (Simulated),-1.50,10.50,21,0,0.00
+Illinois,Shipping Lead Time (Simulated),-1.50,10.50,478,0,0.00
+Indiana,Shipping Lead Time (Simulated),-1.50,10.50,144,0,0.00
+Iowa,Shipping Lead Time (Simulated),-1.50,10.50,30,0,0.00
+Kansas,Shipping Lead Time (Simulated),-1.50,10.50,23,0,0.00
+Kentucky,Shipping Lead Time (Simulated),-1.50,10.50,134,0,0.00
+Louisiana,Shipping Lead Time (Simulated),-1.50,10.50,41,0,0.00
+Maine,Shipping Lead Time (Simulated),-1.50,10.50,7,0,0.00
+Manitoba,Shipping Lead Time (Simulated),-1.50,10.50,11,0,0.00
+Maryland,Shipping Lead Time (Simulated),-1.50,10.50,100,0,0.00
+Massachusetts,Shipping Lead Time (Simulated),-1.50,10.50,130,0,0.00
+Michigan,Shipping Lead Time (Simulated),-1.50,10.50,249,0,0.00
+Minnesota,Shipping Lead Time (Simulated),-1.50,10.50,85,0,0.00
+Mississippi,Shipping Lead Time (Simulated),-1.50,10.50,52,0,0.00
+Missouri,Shipping Lead Time (Simulated),-1.50,10.50,64,0,0.00
+Montana,Shipping Lead Time (Simulated),-1.50,10.50,15,0,0.00
+Nebraska,Shipping Lead Time (Simulated),-1.50,10.50,37,0,0.00
+Nevada,Shipping Lead Time (Simulated),-1.50,10.50,39,0,0.00
+New Brunswick,Shipping Lead Time (Simulated),-1.50,10.50,8,0,0.00
+New Hampshire,Shipping Lead Time (Simulated),-1.50,10.50,27,0,0.00
+New Jersey,Shipping Lead Time (Simulated),-1.50,10.50,128,0,0.00
+New Mexico,Shipping Lead Time (Simulated),-1.50,10.50,37,0,0.00
+New York,Shipping Lead Time (Simulated),-1.50,10.50,1092,0,0.00
+Newfoundland and Labrador,Shipping Lead Time (Simulated),-1.50,10.50,5,0,0.00
+North Carolina,Shipping Lead Time (Simulated),-1.50,10.50,244,0,0.00
+North Dakota,Shipping Lead Time (Simulated),-1.50,10.50,7,0,0.00
+Nova Scotia,Shipping Lead Time (Simulated),-1.50,10.50,6,0,0.00
+Ohio,Shipping Lead Time (Simulated),-1.50,10.50,449,0,0.00
+Oklahoma,Shipping Lead Time (Simulated),-1.50,10.50,65,0,0.00
+Ontario,Shipping Lead Time (Simulated),-1.50,10.50,56,0,0.00
+Oregon,Shipping Lead Time (Simulated),-1.50,10.50,120,0,0.00
+Pennsylvania,Shipping Lead Time (Simulated),-1.50,10.50,570,0,0.00
+Prince Edward Island,Shipping Lead Time (Simulated),-1.50,10.50,10,0,0.00
+Quebec,Shipping Lead Time (Simulated),-1.50,10.50,49,0,0.00
+Rhode Island,Shipping Lead Time (Simulated),-1.50,10.50,55,0,0.00
+Saskatchewan,Shipping Lead Time (Simulated),-1.50,10.50,2,0,0.00
+South Carolina,Shipping Lead Time (Simulated),-1.50,10.50,40,0,0.00
+South Dakota,Shipping Lead Time (Simulated),-1.50,10.50,10,0,0.00
+Tennessee,Shipping Lead Time (Simulated),-1.50,10.50,180,0,0.00
+Texas,Shipping Lead Time (Simulated),-1.50,10.50,952,0,0.00
+Utah,Shipping Lead Time (Simulated),-1.50,10.50,52,0,0.00
+Vermont,Shipping Lead Time (Simulated),-1.50,10.50,11,0,0.00
+Virginia,Shipping Lead Time (Simulated),-1.50,10.50,218,0,0.00
+Washington,Shipping Lead Time (Simulated),-1.50,10.50,494,0,0.00
+West Virginia,Shipping Lead Time (Simulated),-1.50,10.50,4,0,0.00
+Wisconsin,Shipping Lead Time (Simulated),-1.50,10.50,109,0,0.00
+Wyoming,Shipping Lead Time (Simulated),-1.50,10.50,1,0,0.00

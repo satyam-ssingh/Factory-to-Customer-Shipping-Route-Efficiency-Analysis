@@ -1,0 +1,16 @@
+Factory,Column,Lower Fence,Upper Fence,Total Records,Outlier Count,Outlier %
+Secret Factory,Gross Profit,-6.12,23.27,217,70,32.26
+Lot's O' Nuts,Gross Profit,-6.12,23.27,5513,91,1.65
+Wicked Choccy's,Gross Profit,-6.12,23.27,4018,56,1.39
+Sugar Shack,Gross Profit,-6.12,23.27,33,0,0.00
+The Other Factory,Gross Profit,-6.12,23.27,100,0,0.00
+Secret Factory,Sales,-9.00,34.20,217,92,42.40
+Lot's O' Nuts,Sales,-9.00,34.20,5513,91,1.65
+Wicked Choccy's,Sales,-9.00,34.20,4018,62,1.54
+Sugar Shack,Sales,-9.00,34.20,33,0,0.00
+The Other Factory,Sales,-9.00,34.20,100,0,0.00
+Lot's O' Nuts,Shipping Lead Time (Simulated),-1.50,10.50,5513,0,0.00
+Secret Factory,Shipping Lead Time (Simulated),-1.50,10.50,217,0,0.00
+Sugar Shack,Shipping Lead Time (Simulated),-1.50,10.50,33,0,0.00
+The Other Factory,Shipping Lead Time (Simulated),-1.50,10.50,100,0,0.00
+Wicked Choccy's,Shipping Lead Time (Simulated),-1.50,10.50,4018,0,0.00

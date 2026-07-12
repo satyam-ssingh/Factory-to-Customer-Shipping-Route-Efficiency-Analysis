@@ -1,0 +1,34 @@
+REGION-LEVEL BUSINESS RECOMMENDATIONS
+Factory-to-Customer Shipping Route Efficiency Analysis
+Nassau Candy Distributor
+============================================================
+
+1. CARRIER OPTIMIZATION
+   Renegotiate carrier SLAs for Interior, Gulf — these regions record the longest average shipping lead times. Explore dedicated lane agreements or alternative carriers to close the gap with faster-performing regions.
+
+2. ROUTE OPTIMIZATION
+   Review factory-to-region routing for Interior, Gulf. Shifting volume toward faster ship modes on underperforming routes, or introducing direct factory-to-hub lanes, can meaningfully cut lead time without disproportionate cost increases.
+
+3. WAREHOUSE PLANNING
+   Evaluate a regional distribution hub serving Pacific, Atlantic to reduce last-mile lead times. Positioning a hub within the highest-volume region cluster can simultaneously shorten delivery distances and lower cross-country freight costs.
+
+4. INVENTORY DISTRIBUTION
+   Prioritize safety stock allocation toward Pacific, Atlantic — these regions generate the highest cumulative sales. Aligning inventory buffers with regional demand reduces stockout risk during peak periods.
+
+5. REGIONAL EXPANSION
+   Investigate low-penetration regions: Gulf, Interior. Determine whether low volume reflects genuine low demand or insufficient distribution reach, and consider targeted promotions or lower shipping thresholds to stimulate growth.
+
+6. DELAY REDUCTION
+   Regions with delay rates above 30%: Interior. Introduce real-time shipment tracking, build in buffer days for Standard Class shipments into these regions, and set up proactive exception alerts as orders approach SLA breach thresholds.
+
+7. CAPACITY PLANNING
+   Align fleet and carrier capacity with the highest-volume region to avoid bottlenecks during demand spikes, while preserving service levels on lower-volume regions through flexible surge-capacity agreements.
+
+8. COST REDUCTION
+   Cost concentration is highest in Pacific, Atlantic. Benchmark cost-per-unit against comparable routes and explore consolidation opportunities (e.g., full-truckload vs. LTL) to lower per-shipment costs in these regions.
+
+9. RESOURCE ALLOCATION
+   Direct field operations and account management resources toward Pacific, Atlantic — the top composite-ranked regions combining strong revenue, low delay rates, and high route efficiency. Protecting share in best-performing regions delivers the highest return on resource investment.
+
+10. CUSTOMER SERVICE IMPROVEMENT
+   Proactively communicate expected delivery windows to customers in Interior, Gulf, where delay rates are highest. Automated shipment status notifications and simplified escalation paths can offset the customer experience impact while root-cause fixes are implemented.

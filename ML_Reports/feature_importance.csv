@@ -1,0 +1,161 @@
+Task,Model,Feature,Importance,Rank
+Classification,decision_tree,Ship Mode_Standard Class,0.6294,1
+Classification,decision_tree,Ship Mode_Second Class,0.3067,2
+Classification,decision_tree,Cost,0.0137,3
+Classification,decision_tree,Order Month Number,0.0121,4
+Classification,decision_tree,Sales,0.0093,5
+Classification,decision_tree,Gross Profit,0.0068,6
+Classification,decision_tree,Region_Interior,0.0038,7
+Classification,decision_tree,Region_Pacific,0.0038,8
+Classification,decision_tree,Profit Margin %,0.0034,9
+Classification,decision_tree,Units,0.0027,10
+Classification,decision_tree,Region_Gulf,0.0020,11
+Classification,decision_tree,Factory_Secret Factory,0.0015,12
+Classification,decision_tree,Factory_Sugar Shack,0.0011,13
+Classification,decision_tree,Factory_The Other Factory,0.0008,14
+Classification,decision_tree,Order Quarter,0.0008,15
+Classification,decision_tree,Factory_Wicked Choccy's,0.0007,16
+Classification,decision_tree,Division_Other,0.0005,17
+Classification,decision_tree,Division_Sugar,0.0005,18
+Classification,decision_tree,Is US Record,0.0003,19
+Classification,decision_tree,Ship Mode_Same Day,0.0000,20
+Classification,gradient_boosting,Ship Mode_Standard Class,0.7701,1
+Classification,gradient_boosting,Ship Mode_Second Class,0.1795,2
+Classification,gradient_boosting,Order Month Number,0.0103,3
+Classification,gradient_boosting,Gross Profit,0.0095,4
+Classification,gradient_boosting,Cost,0.0094,5
+Classification,gradient_boosting,Sales,0.0056,6
+Classification,gradient_boosting,Ship Mode_Same Day,0.0039,7
+Classification,gradient_boosting,Profit Margin %,0.0027,8
+Classification,gradient_boosting,Units,0.0022,9
+Classification,gradient_boosting,Order Quarter,0.0015,10
+Classification,gradient_boosting,Is US Record,0.0013,11
+Classification,gradient_boosting,Region_Pacific,0.0013,12
+Classification,gradient_boosting,Region_Gulf,0.0009,13
+Classification,gradient_boosting,Region_Interior,0.0009,14
+Classification,gradient_boosting,Factory_Sugar Shack,0.0005,15
+Classification,gradient_boosting,Factory_Secret Factory,0.0002,16
+Classification,gradient_boosting,Factory_Wicked Choccy's,0.0002,17
+Classification,gradient_boosting,Division_Other,0.0000,18
+Classification,gradient_boosting,Division_Sugar,0.0000,19
+Classification,gradient_boosting,Factory_The Other Factory,0.0000,20
+Classification,logistic_regression,Ship Mode_Standard Class,2.9879,1
+Classification,logistic_regression,Ship Mode_Second Class,1.2496,2
+Classification,logistic_regression,Ship Mode_Same Day,0.4533,3
+Classification,logistic_regression,Order Quarter,0.1432,4
+Classification,logistic_regression,Factory_Sugar Shack,0.1340,5
+Classification,logistic_regression,Division_Sugar,0.1226,6
+Classification,logistic_regression,Profit Margin %,0.1076,7
+Classification,logistic_regression,Order Month Number,0.1069,8
+Classification,logistic_regression,Gross Profit,0.0828,9
+Classification,logistic_regression,Division_Other,0.0809,10
+Classification,logistic_regression,Cost,0.0714,11
+Classification,logistic_regression,Units,0.0705,12
+Classification,logistic_regression,Factory_Secret Factory,0.0456,13
+Classification,logistic_regression,Region_Interior,0.0420,14
+Classification,logistic_regression,Factory_Wicked Choccy's,0.0379,15
+Classification,logistic_regression,Region_Pacific,0.0357,16
+Classification,logistic_regression,Factory_The Other Factory,0.0333,17
+Classification,logistic_regression,Sales,0.0248,18
+Classification,logistic_regression,Region_Gulf,0.0201,19
+Classification,logistic_regression,Is US Record,0.0038,20
+Classification,random_forest,Ship Mode_Standard Class,0.5700,1
+Classification,random_forest,Ship Mode_Second Class,0.1767,2
+Classification,random_forest,Ship Mode_Same Day,0.0978,3
+Classification,random_forest,Order Month Number,0.0284,4
+Classification,random_forest,Cost,0.0219,5
+Classification,random_forest,Gross Profit,0.0209,6
+Classification,random_forest,Sales,0.0194,7
+Classification,random_forest,Units,0.0126,8
+Classification,random_forest,Profit Margin %,0.0112,9
+Classification,random_forest,Order Quarter,0.0111,10
+Classification,random_forest,Region_Pacific,0.0069,11
+Classification,random_forest,Region_Interior,0.0062,12
+Classification,random_forest,Region_Gulf,0.0054,13
+Classification,random_forest,Is US Record,0.0033,14
+Classification,random_forest,Factory_Wicked Choccy's,0.0031,15
+Classification,random_forest,Factory_Secret Factory,0.0016,16
+Classification,random_forest,Division_Other,0.0012,17
+Classification,random_forest,Factory_Sugar Shack,0.0009,18
+Classification,random_forest,Factory_The Other Factory,0.0008,19
+Classification,random_forest,Division_Sugar,0.0006,20
+Regression,decision_tree,Ship Mode_Standard Class,0.7150,1
+Regression,decision_tree,Ship Mode_Second Class,0.2304,2
+Regression,decision_tree,Ship Mode_Same Day,0.0348,3
+Regression,decision_tree,Order Month Number,0.0040,4
+Regression,decision_tree,Cost,0.0030,5
+Regression,decision_tree,Sales,0.0026,6
+Regression,decision_tree,Gross Profit,0.0023,7
+Regression,decision_tree,Profit Margin %,0.0016,8
+Regression,decision_tree,Units,0.0013,9
+Regression,decision_tree,Region_Pacific,0.0013,10
+Regression,decision_tree,Region_Gulf,0.0011,11
+Regression,decision_tree,Order Quarter,0.0006,12
+Regression,decision_tree,Factory_Wicked Choccy's,0.0006,13
+Regression,decision_tree,Region_Interior,0.0006,14
+Regression,decision_tree,Is US Record,0.0003,15
+Regression,decision_tree,Factory_The Other Factory,0.0002,16
+Regression,decision_tree,Division_Other,0.0002,17
+Regression,decision_tree,Factory_Secret Factory,0.0000,18
+Regression,decision_tree,Factory_Sugar Shack,0.0000,18
+Regression,decision_tree,Division_Sugar,0.0000,18
+Regression,gradient_boosting,Ship Mode_Standard Class,0.7196,1
+Regression,gradient_boosting,Ship Mode_Second Class,0.2319,2
+Regression,gradient_boosting,Ship Mode_Same Day,0.0351,3
+Regression,gradient_boosting,Cost,0.0027,4
+Regression,gradient_boosting,Order Month Number,0.0025,5
+Regression,gradient_boosting,Gross Profit,0.0019,6
+Regression,gradient_boosting,Sales,0.0018,7
+Regression,gradient_boosting,Units,0.0011,8
+Regression,gradient_boosting,Profit Margin %,0.0010,9
+Regression,gradient_boosting,Is US Record,0.0007,10
+Regression,gradient_boosting,Region_Pacific,0.0006,11
+Regression,gradient_boosting,Order Quarter,0.0003,12
+Regression,gradient_boosting,Factory_Sugar Shack,0.0003,13
+Regression,gradient_boosting,Region_Gulf,0.0003,14
+Regression,gradient_boosting,Region_Interior,0.0001,15
+Regression,gradient_boosting,Factory_Secret Factory,0.0000,16
+Regression,gradient_boosting,Division_Other,0.0000,17
+Regression,gradient_boosting,Division_Sugar,0.0000,18
+Regression,gradient_boosting,Factory_Wicked Choccy's,0.0000,19
+Regression,gradient_boosting,Factory_The Other Factory,0.0000,20
+Regression,linear_regression,Ship Mode_Standard Class,1.7132,1
+Regression,linear_regression,Ship Mode_Second Class,0.7937,2
+Regression,linear_regression,Ship Mode_Same Day,0.3333,3
+Regression,linear_regression,Profit Margin %,0.1334,4
+Regression,linear_regression,Gross Profit,0.0870,5
+Regression,linear_regression,Cost,0.0802,6
+Regression,linear_regression,Factory_Sugar Shack,0.0793,7
+Regression,linear_regression,Division_Other,0.0676,8
+Regression,linear_regression,Division_Sugar,0.0489,9
+Regression,linear_regression,Factory_The Other Factory,0.0484,10
+Regression,linear_regression,Factory_Wicked Choccy's,0.0481,11
+Regression,linear_regression,Units,0.0462,12
+Regression,linear_regression,Sales,0.0155,13
+Regression,linear_regression,Order Month Number,0.0145,14
+Regression,linear_regression,Order Quarter,0.0140,15
+Regression,linear_regression,Region_Pacific,0.0110,16
+Regression,linear_regression,Factory_Secret Factory,0.0053,17
+Regression,linear_regression,Region_Interior,0.0031,18
+Regression,linear_regression,Region_Gulf,0.0016,19
+Regression,linear_regression,Is US Record,0.0012,20
+Regression,random_forest,Ship Mode_Standard Class,0.6871,1
+Regression,random_forest,Ship Mode_Second Class,0.2217,2
+Regression,random_forest,Ship Mode_Same Day,0.0335,3
+Regression,random_forest,Order Month Number,0.0129,4
+Regression,random_forest,Cost,0.0087,5
+Regression,random_forest,Gross Profit,0.0087,6
+Regression,random_forest,Sales,0.0056,7
+Regression,random_forest,Profit Margin %,0.0042,8
+Regression,random_forest,Region_Pacific,0.0033,9
+Regression,random_forest,Region_Interior,0.0031,10
+Regression,random_forest,Units,0.0030,11
+Regression,random_forest,Region_Gulf,0.0028,12
+Regression,random_forest,Order Quarter,0.0023,13
+Regression,random_forest,Is US Record,0.0014,14
+Regression,random_forest,Factory_Wicked Choccy's,0.0009,15
+Regression,random_forest,Factory_Secret Factory,0.0002,16
+Regression,random_forest,Factory_Sugar Shack,0.0002,17
+Regression,random_forest,Division_Other,0.0002,18
+Regression,random_forest,Division_Sugar,0.0001,19
+Regression,random_forest,Factory_The Other Factory,0.0001,20

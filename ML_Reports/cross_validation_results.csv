@@ -1,0 +1,9 @@
+Task,Model,CV_Method,Scoring,Mean_CV_Score,Std_Dev,Min_Score,Max_Score
+Classification,logistic_regression,Stratified K-Fold,F1 (weighted),0.6252,0.0037,0.6188,0.6299
+Classification,decision_tree,Stratified K-Fold,F1 (weighted),0.6234,0.0258,0.5736,0.6437
+Classification,random_forest,Stratified K-Fold,F1 (weighted),0.6286,0.0057,0.6191,0.6356
+Classification,gradient_boosting,Stratified K-Fold,F1 (weighted),0.6373,0.0087,0.6283,0.6481
+Regression,linear_regression,K-Fold,R2,0.7080,0.0102,0.6911,0.7232
+Regression,decision_tree,K-Fold,R2,0.6968,0.0085,0.6826,0.7073
+Regression,random_forest,K-Fold,R2,0.7034,0.0100,0.6872,0.7178
+Regression,gradient_boosting,K-Fold,R2,0.7059,0.0101,0.6887,0.7204

@@ -1,0 +1,118 @@
+============================================================
+EXECUTIVE REPORT - FACTORY-LEVEL SHIPPING PERFORMANCE
+Factory-to-Customer Shipping Route Efficiency Analysis
+Nassau Candy Distributor
+Generated: 2026-07-11 17:35
+============================================================
+
+============================================================
+EXECUTIVE SUMMARY
+============================================================
+This report presents a comprehensive factory-level analysis of shipping performance across 5 factories operated by Nassau Candy Distributor. The analysis covers total sales, gross profit, shipment volume, shipping lead time, delay rates, route efficiency and profit margin, and concludes with data-driven business recommendations. The factory ranked #1 overall on a composite performance score is Lot's O' Nuts.
+
+============================================================
+KEY FINDINGS
+============================================================
+  - Highest Sales Factory        : Lot's O' Nuts ($74,287.89)
+  - Highest Profit Factory       : Lot's O' Nuts ($51,347.69)
+  - Fastest Shipping Factory     : Secret Factory (4.15 days avg)
+  - Slowest Shipping Factory     : Wicked Choccy's (4.42 days avg)
+  - Lowest Delay Factory         : Sugar Shack
+  - Highest Delay Factory        : The Other Factory
+  - Best Overall Factory         : Lot's O' Nuts
+  - Total Revenue (all factories): $138,284.12
+  - Total Gross Profit           : $91,076.41
+  - Overall Avg Lead Time        : 4.32 days
+
+============================================================
+FACTORY RANKINGS
+============================================================
+  Rank 1: Lot's O' Nuts
+  Rank 2: Secret Factory
+  Rank 3: Wicked Choccy's
+  Rank 3: Sugar Shack
+  Rank 5: The Other Factory
+
+============================================================
+STATISTICAL RESULTS (ANOVA)
+============================================================
+  - Sales: F=313.9925, p=0.0 (Factory effect significant: Yes)
+  - Gross Profit: F=199.2095, p=0.0 (Factory effect significant: Yes)
+  - Shipping Lead Time (Simulated): F=1.2604, p=0.283136 (Factory effect significant: No)
+
+============================================================
+BUSINESS INSIGHTS
+============================================================
+  - ANOVA — Sales: F=313.9925, p=0.0 -> Factory effect significant: Yes
+  - ANOVA — Gross Profit: F=199.2095, p=0.0 -> Factory effect significant: Yes
+  - ANOVA — Shipping Lead Time (Simulated): F=1.2604, p=0.283136 -> Factory effect significant: No
+  - Best Overall Ranked Factory (composite score): Lot's O' Nuts
+  - Worst Overall Ranked Factory (composite score): The Other Factory
+  - Highest Sales Factory: Lot's O' Nuts ($74,287.89)
+  - Lowest Sales Factory: Sugar Shack ($220.98)
+  - Highest Profit Factory: Lot's O' Nuts ($51,347.69)
+  - Lowest Profit Factory: Sugar Shack ($121.23)
+  - Highest Shipment Factory: Lot's O' Nuts (5,513 orders = 55.8% of all)
+  - Lowest Shipment Factory: Sugar Shack (33 orders)
+  - Fastest Shipping Factory: Secret Factory (4.15 days avg lead time)
+  - Slowest Shipping Factory: Wicked Choccy's (4.42 days avg lead time)
+  - Highest Delay Factory: The Other Factory (32.00% delayed)
+  - Lowest Delay Factory: Sugar Shack (21.21% delayed)
+  - Best Profit Margin Factory: Lot's O' Nuts (69.16% avg margin)
+  - Highest Route Efficiency Factory: Sugar Shack
+  - Lowest Route Efficiency Factory: Wicked Choccy's
+  - Best Overall Performing Factory: Lot's O' Nuts
+  - Worst Overall Performing Factory: The Other Factory
+  - Greatest Improvement Opportunity: Wicked Choccy's - high sales ($53,905.50) but above-median delay rate (29.99%)
+  - Combined Total Revenue (all factories): $138,284.12
+  - Combined Total Gross Profit (all factories): $91,076.41
+  - Overall Average Lead Time (all factories): 4.32 days
+
+============================================================
+RECOMMENDATIONS
+============================================================
+1. FACTORY OPTIMIZATION
+   'Lot's O' Nuts' delivers the strongest composite performance across sales, profit, speed and reliability — use it as the benchmark for process standardization. 'The Other Factory' ranks lowest overall and should be reviewed for operational bottlenecks, staffing, or packaging/dispatch inefficiencies.
+
+2. CARRIER ALLOCATION
+   Renegotiate carrier SLAs or introduce alternative carriers for Wicked Choccy's, Lot's O' Nuts — these factories record the longest average shipping lead times and are prime candidates for dedicated lane agreements or expedited-shipping partnerships.
+
+3. WAREHOUSE PLANNING
+   Evaluate additional staging/consolidation capacity near Lot's O' Nuts, Wicked Choccy's — these factories handle the highest shipment volumes and would benefit most from streamlined outbound logistics.
+
+4. INVENTORY DISTRIBUTION
+   Prioritize raw-material and packaging stock allocation toward Lot's O' Nuts, Wicked Choccy's — these factories generate the highest cumulative sales and are most sensitive to stockout risk during peak demand periods.
+
+5. DELAY REDUCTION
+   Factories with delay rates above 30%: The Other Factory. Introduce real-time shipment tracking, build buffer days into Standard Class dispatch schedules, and set up proactive exception alerts as orders approach SLA breach thresholds.
+
+6. COST REDUCTION
+   Cost concentration is highest at Lot's O' Nuts, Wicked Choccy's. Benchmark cost-per-unit against comparable factories and explore consolidation opportunities (e.g., full-truckload vs. LTL shipments) to lower per-shipment costs.
+
+7. PRODUCTION PLANNING
+   Sugar Shack, Lot's O' Nuts handle the widest product range. Align production scheduling and SKU prioritization at these sites with demand forecasts to reduce changeover time and improve on-time dispatch.
+
+8. CAPACITY PLANNING
+   Align staffing and dispatch capacity with the highest-volume factory to avoid bottlenecks during demand spikes, while maintaining flexible surge-capacity agreements for lower-volume factories.
+
+9. RESOURCE ALLOCATION
+   Direct operational investment and management attention toward Lot's O' Nuts, Secret Factory — the top composite-ranked factories combining strong revenue, low delay rates and high route efficiency. Protecting and scaling best-performing factories delivers the highest return on investment.
+
+10. CUSTOMER SERVICE IMPROVEMENT
+   Proactively communicate expected delivery windows for orders originating from The Other Factory, Wicked Choccy's, where delay rates are highest. Automated shipment status notifications and simplified escalation paths can offset customer experience impact while root-cause fixes are implemented.
+
+============================================================
+CONCLUSION
+============================================================
+Factory-level shipping performance varies meaningfully across Nassau
+Candy Distributor's production footprint. By concentrating resources
+on high-performing factories, addressing delay hotspots with
+targeted carrier and production interventions, and aligning
+inventory and warehouse strategy with factory-level demand patterns,
+the company can materially improve delivery reliability, control
+logistics costs, and support sustainable revenue growth across its
+entire production network.
+
+============================================================
+END OF REPORT
+============================================================

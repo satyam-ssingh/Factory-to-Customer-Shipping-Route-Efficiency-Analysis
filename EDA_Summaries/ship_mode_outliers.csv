@@ -1,0 +1,13 @@
+Ship Mode,Column,Lower Fence,Upper Fence,Total Records,Outlier Count,Outlier %
+Same Day,Gross Profit,-6.12,23.27,527,9,1.71
+First Class,Gross Profit,-6.12,23.27,1494,32,2.14
+Second Class,Gross Profit,-6.12,23.27,1921,41,2.13
+Standard Class,Gross Profit,-6.12,23.27,5939,135,2.27
+Same Day,Sales,-9.00,34.20,527,10,1.90
+First Class,Sales,-9.00,34.20,1494,37,2.48
+Second Class,Sales,-9.00,34.20,1921,50,2.60
+Standard Class,Sales,-9.00,34.20,5939,148,2.49
+Same Day,Shipping Lead Time (Simulated),-1.50,10.50,527,0,0.00
+First Class,Shipping Lead Time (Simulated),-1.50,10.50,1494,0,0.00
+Second Class,Shipping Lead Time (Simulated),-1.50,10.50,1921,0,0.00
+Standard Class,Shipping Lead Time (Simulated),-1.50,10.50,5939,0,0.00

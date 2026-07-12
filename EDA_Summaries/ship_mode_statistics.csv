@@ -1,0 +1,13 @@
+Ship Mode,Metric,Mean,Median,Std Dev,Min,Max,Q1,Q3
+Same Day,Gross Profit,8.68,7.35,5.62,0.50,40.00,4.90,12.00
+Same Day,Sales,13.15,10.80,8.98,2.50,80.00,7.20,17.45
+Same Day,Shipping Lead Time (Simulated),0.51,1.00,0.50,0.00,1.00,0.00,1.00
+First Class,Gross Profit,9.09,7.47,7.06,0.50,90.00,4.90,12.00
+First Class,Sales,13.85,10.80,12.38,1.25,180.00,7.20,18.00
+First Class,Shipping Lead Time (Simulated),1.98,2.00,0.81,1.00,3.00,1.00,3.00
+Second Class,Gross Profit,9.33,7.47,7.27,0.25,130.00,4.98,12.45
+Second Class,Sales,14.21,10.80,12.78,1.25,260.00,7.20,18.00
+Second Class,Shipping Lead Time (Simulated),3.99,4.00,0.82,3.00,5.00,3.00,5.00
+Standard Class,Gross Profit,9.26,7.47,6.52,0.25,110.00,4.90,12.25
+Standard Class,Sales,14.04,10.80,10.97,1.25,220.00,7.20,18.00
+Standard Class,Shipping Lead Time (Simulated),5.48,5.00,1.12,4.00,7.00,4.00,6.00

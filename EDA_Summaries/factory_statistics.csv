@@ -1,0 +1,16 @@
+Factory,Metric,Mean,Median,Std Dev,Variance,Min,Max,Q1,Q3,IQR
+Lot's O' Nuts,Sales,13.48,10.80,7.91,62.52,3.49,50.40,7.20,18.00,10.80
+Lot's O' Nuts,Gross Profit,9.31,7.50,5.46,29.85,2.40,35.00,5.00,12.45,7.45
+Lot's O' Nuts,Shipping Lead Time (Simulated),4.39,5.00,1.85,3.43,0.00,7.00,3.00,6.00,3.00
+Secret Factory,Sales,39.57,10.00,50.32,2531.88,1.25,260.00,3.75,60.00,56.25
+Secret Factory,Gross Profit,20.02,5.20,25.20,634.99,0.65,130.00,1.95,30.00,28.05
+Secret Factory,Shipping Lead Time (Simulated),4.15,4.00,1.92,3.68,0.00,7.00,3.00,6.00,3.00
+Sugar Shack,Sales,6.70,6.00,4.27,18.20,1.50,18.75,3.98,9.00,5.02
+Sugar Shack,Gross Profit,3.67,2.80,2.66,7.08,0.60,11.25,2.10,4.90,2.80
+Sugar Shack,Shipping Lead Time (Simulated),4.30,4.00,1.49,2.22,1.00,7.00,4.00,5.00,1.00
+The Other Factory,Sales,12.82,9.75,6.74,45.43,3.25,29.25,6.50,16.25,9.75
+The Other Factory,Gross Profit,1.52,0.88,2.93,8.59,0.25,17.50,0.50,1.25,0.75
+The Other Factory,Shipping Lead Time (Simulated),4.33,4.00,1.89,3.58,0.00,7.00,3.00,6.00,3.00
+Wicked Choccy's,Sales,13.42,11.25,8.00,63.99,3.25,52.50,7.50,18.75,11.25
+Wicked Choccy's,Gross Profit,8.74,7.35,5.21,27.18,2.11,34.30,4.90,12.25,7.35
+Wicked Choccy's,Shipping Lead Time (Simulated),4.42,5.00,1.84,3.40,0.00,7.00,3.00,6.00,3.00

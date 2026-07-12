@@ -1,0 +1,5 @@
+Region,Avg_Lead_Time,Median_Lead_Time,Max_Lead_Time,Min_Lead_Time,Count
+Interior,4.48,5.00,7,0,2264
+Gulf,4.41,5.00,7,0,1571
+Pacific,4.37,5.00,7,0,3156
+Atlantic,4.36,5.00,7,0,2890

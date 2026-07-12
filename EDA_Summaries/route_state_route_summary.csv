@@ -1,0 +1,197 @@
+Factory -> State Route,Total_Shipments,Total_Sales,Total_Profit,Avg_Lead_Time
+Lot's O' Nuts -> California,1088,14607.93,10095.93,4.27
+Wicked Choccy's -> California,796,11096.75,7227.69,4.39
+Lot's O' Nuts -> New York,625,8540.41,5904.11,4.35
+Lot's O' Nuts -> Texas,548,7399.85,5109.35,4.50
+Wicked Choccy's -> New York,420,5359.50,3490.66,4.33
+Wicked Choccy's -> Texas,376,4991.00,3250.28,4.39
+Lot's O' Nuts -> Pennsylvania,321,4220.52,2912.32,4.56
+Lot's O' Nuts -> Illinois,260,3464.71,2400.61,4.54
+Lot's O' Nuts -> Washington,260,3392.88,2347.58,4.53
+Lot's O' Nuts -> Ohio,251,3333.88,2303.98,3.87
+Wicked Choccy's -> Pennsylvania,220,2742.00,1786.36,4.39
+Wicked Choccy's -> Washington,218,2999.25,1954.19,4.31
+Wicked Choccy's -> Illinois,203,2740.75,1785.61,4.49
+Lot's O' Nuts -> Florida,202,2554.39,1761.39,4.23
+Wicked Choccy's -> Ohio,180,2388.75,1556.45,3.98
+Wicked Choccy's -> Florida,153,1925.50,1253.94,4.39
+Lot's O' Nuts -> Michigan,143,2068.20,1426.20,4.30
+Lot's O' Nuts -> North Carolina,139,2013.21,1395.21,4.55
+Lot's O' Nuts -> Virginia,107,1502.84,1035.24,4.18
+Lot's O' Nuts -> Arizona,107,1425.29,983.19,4.27
+Lot's O' Nuts -> Georgia,106,1428.72,995.42,4.44
+Lot's O' Nuts -> Tennessee,106,1322.51,914.61,4.73
+Wicked Choccy's -> Arizona,103,1404.25,914.99,4.52
+Wicked Choccy's -> Virginia,102,1433.50,933.38,4.26
+Wicked Choccy's -> North Carolina,100,1350.00,879.60,4.42
+Lot's O' Nuts -> Colorado,99,1405.12,969.42,4.09
+Wicked Choccy's -> Michigan,98,1116.75,726.89,4.62
+Lot's O' Nuts -> Indiana,86,1210.58,839.88,4.69
+Lot's O' Nuts -> Kentucky,76,1032.15,710.75,4.54
+Lot's O' Nuts -> Oregon,74,1039.10,720.30,4.68
+Lot's O' Nuts -> Massachusetts,73,974.44,671.04,4.25
+Wicked Choccy's -> Tennessee,67,915.75,596.21,5.10
+Wicked Choccy's -> Colorado,65,825.50,537.54,4.06
+Lot's O' Nuts -> New Jersey,65,825.88,567.98,4.83
+Wicked Choccy's -> Georgia,63,841.25,547.75,4.33
+Lot's O' Nuts -> Wisconsin,57,757.78,524.48,4.47
+Wicked Choccy's -> New Jersey,57,657.00,427.76,4.60
+Lot's O' Nuts -> Maryland,57,770.09,538.09,4.37
+Wicked Choccy's -> Kentucky,54,724.75,472.33,4.54
+Wicked Choccy's -> Indiana,53,701.75,457.09,4.75
+Wicked Choccy's -> Massachusetts,52,655.00,426.40,4.90
+Wicked Choccy's -> Wisconsin,47,737.25,479.83,5.15
+Lot's O' Nuts -> Connecticut,46,516.39,357.29,3.74
+Wicked Choccy's -> Delaware,46,582.00,378.76,4.89
+Lot's O' Nuts -> Delaware,42,624.39,431.19,4.26
+Wicked Choccy's -> Minnesota,42,562.50,366.50,4.17
+Wicked Choccy's -> Oregon,42,613.25,399.71,4.83
+Lot's O' Nuts -> Minnesota,42,550.74,381.34,4.74
+Lot's O' Nuts -> Oklahoma,40,558.93,387.53,4.70
+Wicked Choccy's -> Maryland,39,610.75,398.21,4.03
+Lot's O' Nuts -> Missouri,35,503.28,351.58,4.17
+Lot's O' Nuts -> Alabama,33,464.81,319.41,4.73
+Secret Factory -> California,31,1238.75,620.55,4.16
+Wicked Choccy's -> Connecticut,31,440.75,287.01,3.84
+Lot's O' Nuts -> Mississippi,30,448.43,312.33,4.53
+Lot's O' Nuts -> Rhode Island,29,339.36,233.26,3.59
+Lot's O' Nuts -> Arkansas,29,417.02,287.22,4.52
+Lot's O' Nuts -> Utah,28,383.11,262.61,4.57
+Wicked Choccy's -> Ontario,28,443.50,288.58,5.32
+Wicked Choccy's -> Missouri,28,352.50,229.50,4.11
+Lot's O' Nuts -> Ontario,28,348.32,239.22,4.64
+Wicked Choccy's -> Oklahoma,25,308.25,200.91,4.56
+Wicked Choccy's -> Arkansas,25,370.75,241.61,4.52
+Secret Factory -> New York,24,1026.25,514.45,4.21
+Lot's O' Nuts -> Quebec,24,242.93,165.83,4.58
+Lot's O' Nuts -> Nevada,24,389.21,268.11,4.50
+Lot's O' Nuts -> Louisiana,23,276.51,192.51,3.83
+Wicked Choccy's -> Quebec,23,248.25,161.31,5.17
+Wicked Choccy's -> Utah,23,362.50,236.10,4.61
+Wicked Choccy's -> Alabama,22,333.75,217.25,4.27
+Lot's O' Nuts -> Nebraska,22,284.48,197.88,4.32
+The Other Factory -> California,21,233.75,33.75,4.38
+Wicked Choccy's -> Rhode Island,21,282.25,183.83,4.24
+Wicked Choccy's -> Mississippi,21,300.75,195.81,5.10
+Lot's O' Nuts -> South Carolina,20,274.12,189.92,3.80
+Secret Factory -> Pennsylvania,19,762.50,382.90,4.11
+Lot's O' Nuts -> British Columbia,18,253.40,173.80,5.44
+Wicked Choccy's -> South Carolina,18,299.50,195.26,3.89
+Lot's O' Nuts -> New Mexico,18,260.71,179.41,5.17
+Wicked Choccy's -> New Mexico,17,229.50,149.26,5.06
+Lot's O' Nuts -> Iowa,16,227.87,157.47,4.38
+Secret Factory -> Texas,16,517.50,268.70,3.94
+Wicked Choccy's -> Louisiana,15,220.50,143.54,3.80
+Lot's O' Nuts -> Alberta,15,189.92,131.42,4.53
+Lot's O' Nuts -> Kansas,15,188.93,130.83,4.33
+The Other Factory -> New York,14,181.75,29.75,4.93
+Wicked Choccy's -> Nebraska,14,185.75,121.21,4.07
+Wicked Choccy's -> Iowa,14,172.50,112.50,4.71
+Lot's O' Nuts -> Idaho,14,146.50,100.90,4.86
+Secret Factory -> Ohio,13,768.75,384.95,4.54
+Secret Factory -> Illinois,13,546.25,273.65,3.54
+Lot's O' Nuts -> New Hampshire,13,178.02,123.02,4.54
+Wicked Choccy's -> Nevada,12,151.50,98.82,4.67
+Secret Factory -> Washington,11,351.25,175.85,3.91
+Wicked Choccy's -> New Hampshire,11,208.25,135.51,4.73
+The Other Factory -> Texas,9,100.75,7.75,4.11
+Sugar Shack -> New York,9,56.97,29.12,3.89
+Wicked Choccy's -> Manitoba,9,110.50,71.94,4.11
+Lot's O' Nuts -> South Dakota,8,107.12,74.62,4.88
+Lot's O' Nuts -> District of Columbia,8,126.00,85.30,4.75
+Wicked Choccy's -> Alberta,8,146.00,94.88,4.62
+Wicked Choccy's -> Kansas,8,66.75,43.49,4.38
+Lot's O' Nuts -> Montana,8,92.61,64.01,5.25
+Secret Factory -> Colorado,7,171.25,103.85,2.71
+Secret Factory -> Florida,7,78.75,52.15,4.29
+Wicked Choccy's -> Montana,7,109.50,71.46,4.14
+The Other Factory -> Pennsylvania,7,97.50,7.50,4.14
+Wicked Choccy's -> Idaho,7,78.75,51.25,4.00
+Secret Factory -> Georgia,7,317.50,159.10,4.29
+Wicked Choccy's -> Nova Scotia,6,87.50,56.90,4.67
+Lot's O' Nuts -> Prince Edward Island,6,78.10,54.90,5.50
+Lot's O' Nuts -> Vermont,5,103.19,72.39,6.00
+Lot's O' Nuts -> Maine,5,64.25,44.05,5.40
+Lot's O' Nuts -> Newfoundland and Labrador,5,133.20,92.50,5.40
+Lot's O' Nuts -> North Dakota,5,57.16,39.66,4.60
+Secret Factory -> Arizona,5,640.00,320.00,3.20
+Wicked Choccy's -> Vermont,5,51.75,33.69,5.60
+Secret Factory -> Michigan,5,82.50,41.70,5.00
+Secret Factory -> Wisconsin,5,415.00,207.80,5.20
+Secret Factory -> Virginia,5,93.75,47.15,3.40
+The Other Factory -> Virginia,4,55.25,4.25,4.00
+Wicked Choccy's -> Prince Edward Island,4,52.00,33.76,6.00
+Secret Factory -> Indiana,4,21.25,11.05,4.25
+Secret Factory -> North Carolina,4,20.00,10.40,3.75
+Lot's O' Nuts -> New Brunswick,4,97.72,69.72,4.75
+Wicked Choccy's -> British Columbia,4,37.50,24.50,5.25
+The Other Factory -> Washington,4,52.00,4.00,5.00
+Wicked Choccy's -> New Brunswick,4,75.00,49.00,5.00
+Secret Factory -> Rhode Island,3,142.50,71.30,3.67
+Secret Factory -> Tennessee,3,62.50,31.70,4.33
+Secret Factory -> Maryland,3,8.75,4.55,5.67
+Secret Factory -> Alabama,3,150.00,75.20,3.33
+The Other Factory -> Massachusetts,3,32.50,2.50,4.00
+The Other Factory -> New Jersey,3,68.25,5.25,5.67
+The Other Factory -> Ohio,3,29.25,2.25,4.00
+Sugar Shack -> Pennsylvania,3,24.23,14.43,5.67
+Sugar Shack -> Texas,3,15.00,7.00,4.33
+Sugar Shack -> Michigan,3,17.74,10.09,4.67
+The Other Factory -> Florida,3,39.00,3.00,4.33
+The Other Factory -> Tennessee,3,42.25,3.25,4.33
+Sugar Shack -> Florida,3,36.89,22.64,4.33
+Wicked Choccy's -> North Dakota,2,52.50,34.30,4.50
+Wicked Choccy's -> Maine,2,55.25,36.07,5.50
+Wicked Choccy's -> Saskatchewan,2,29.25,18.99,5.50
+Secret Factory -> Alberta,2,180.00,90.00,4.00
+Lot's O' Nuts -> West Virginia,2,38.72,27.42,3.00
+Lot's O' Nuts -> Manitoba,2,18.00,12.00,1.50
+Secret Factory -> Arkansas,2,63.75,31.95,4.00
+Secret Factory -> Kentucky,2,46.25,23.25,3.00
+Secret Factory -> Louisiana,2,11.25,5.85,5.00
+Secret Factory -> New Jersey,2,6.25,3.25,6.50
+Secret Factory -> Nevada,2,202.50,101.30,5.00
+Secret Factory -> Quebec,2,100.00,50.00,6.50
+Secret Factory -> New Mexico,2,12.50,6.50,3.50
+Secret Factory -> Massachusetts,2,100.00,50.00,5.00
+Secret Factory -> Oregon,2,180.00,90.00,3.50
+Sugar Shack -> Illinois,2,12.00,6.30,3.50
+Sugar Shack -> Ohio,2,18.46,9.86,2.50
+The Other Factory -> Kentucky,2,26.00,2.00,1.50
+The Other Factory -> Alabama,2,35.75,2.75,6.00
+The Other Factory -> Delaware,2,26.00,2.00,4.00
+The Other Factory -> Georgia,2,39.00,3.00,5.00
+The Other Factory -> New Hampshire,2,35.75,2.75,3.50
+The Other Factory -> Oregon,2,26.00,2.00,3.00
+Wicked Choccy's -> West Virginia,2,25.25,16.47,4.50
+The Other Factory -> Arizona,2,38.75,18.75,2.00
+The Other Factory -> Connecticut,2,9.75,0.75,5.50
+Wicked Choccy's -> District of Columbia,2,16.25,10.55,6.00
+Wicked Choccy's -> South Dakota,2,26.25,17.15,5.00
+The Other Factory -> Colorado,2,19.50,1.50,4.00
+Lot's O' Nuts -> Wyoming,1,13.96,9.96,6.00
+Secret Factory -> Connecticut,1,2.50,1.30,3.00
+Secret Factory -> Delaware,1,60.00,30.00,5.00
+The Other Factory -> North Carolina,1,9.00,7.00,0.00
+The Other Factory -> Nevada,1,16.25,1.25,1.00
+The Other Factory -> Maryland,1,3.25,0.25,7.00
+The Other Factory -> Louisiana,1,9.75,0.75,4.00
+The Other Factory -> Missouri,1,6.50,0.50,4.00
+Sugar Shack -> Connecticut,1,3.98,2.48,6.00
+Sugar Shack -> Delaware,1,4.50,2.10,5.00
+Secret Factory -> Nebraska,1,2.50,1.30,4.00
+Secret Factory -> South Carolina,1,6.25,3.25,4.00
+Secret Factory -> Minnesota,1,5.00,2.60,3.00
+Secret Factory -> Mississippi,1,80.00,40.00,5.00
+Secret Factory -> New Hampshire,1,6.25,3.25,6.00
+The Other Factory -> Indiana,1,19.50,1.50,6.00
+Sugar Shack -> Washington,1,1.99,1.24,4.00
+Sugar Shack -> Tennessee,1,1.50,0.60,4.00
+Sugar Shack -> Rhode Island,1,4.50,2.10,4.00
+Sugar Shack -> New Jersey,1,5.97,3.72,5.00
+Secret Factory -> Utah,1,100.00,50.00,7.00
+Secret Factory -> Vermont,1,7.50,3.90,7.00
+Sugar Shack -> Arizona,1,11.25,6.75,6.00
+Sugar Shack -> California,1,6.00,2.80,4.00
+The Other Factory -> Rhode Island,1,22.75,1.75,7.00
+The Other Factory -> South Carolina,1,6.50,0.50,5.00

@@ -1,0 +1,6 @@
+Factory,Total_Shipments,Total_Sales,Total_Profit,Total_Units,Total_Cost,Avg_Lead_Time,Avg_Profit_Margin,On_Time_Rate_%,Moderate_Delay_%,Delay_Rate_%,Dominant_Region,States_Served,Products_Handled
+Lot's O' Nuts,5513,74287.89,51347.69,20836,22940.20,4.39,69.16,27.50,43.08,29.42,Pacific,57,3
+Wicked Choccy's,4018,53905.50,35110.54,15452,18794.96,4.42,65.12,26.06,43.95,29.99,Pacific,57,2
+Secret Factory,217,8587.50,4344.70,884,4242.80,4.15,51.52,34.56,38.71,26.73,Atlantic,39,3
+The Other Factory,100,1282.25,152.25,388,1130.00,4.33,10.50,32.00,36.00,32.00,Atlantic,28,2
+Sugar Shack,33,220.98,121.23,107,99.75,4.30,53.23,18.18,60.61,21.21,Atlantic,15,5

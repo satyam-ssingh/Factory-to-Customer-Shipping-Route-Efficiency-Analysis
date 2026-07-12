@@ -1,0 +1,60 @@
+State/Province,Sales Rank,Profit Rank,Lead Time Rank,Delay Rank,Efficiency Rank,Overall Rank
+Ohio,7,7,7,14,8,1
+Colorado,14,14,8,9,6,2
+California,1,1,14,21,16,3
+Virginia,12,12,10,10,12,4
+New York,2,2,15,19,24,5
+Florida,8,8,12,23,15,6
+Connecticut,26,25,3,12,7,7
+Texas,3,3,20,25,26,8
+Rhode Island,33,33,6,3,4,9
+South Carolina,36,35,4,4,1,10
+Missouri,28,28,9,7,11,11
+Washington,5,5,19,31,32,12
+Michigan,11,11,22,30,21,13
+Arizona,9,10,15,34,27,13
+Pennsylvania,4,4,25,32,31,15
+Louisiana,37,37,4,15,3,15
+Minnesota,24,24,20,18,13,17
+Kentucky,19,19,24,20,17,17
+Georgia,13,13,18,33,23,19
+Illinois,6,6,26,35,29,20
+North Carolina,10,9,23,42,25,21
+Manitoba,53,53,1,2,2,22
+Nebraska,40,39,11,17,5,23
+Maryland,22,22,12,26,34,24
+Alabama,25,26,31,26,14,25
+Massachusetts,20,20,29,22,36,26
+Alberta,38,40,29,13,10,27
+Arkansas,29,29,28,11,35,28
+West Virginia,57,57,2,1,17,29
+Oregon,18,18,40,37,22,30
+Iowa,42,41,31,16,9,31
+Delaware,23,23,35,29,33,32
+Indiana,16,16,41,43,28,33
+New Hampshire,41,42,35,8,37,34
+Tennessee,15,15,46,44,44,35
+New Jersey,21,21,43,41,42,36
+Nevada,34,34,26,38,38,37
+Idaho,45,45,33,24,30,38
+Wisconsin,17,17,45,52,50,39
+Kansas,44,44,15,28,51,40
+Utah,30,30,37,45,43,41
+Oklahoma,27,27,38,46,48,42
+North Dakota,55,55,33,6,39,43
+New Brunswick,47,47,47,4,49,44
+Ontario,32,32,50,48,39,45
+Mississippi,31,31,43,46,52,46
+Nova Scotia,56,56,39,38,17,47
+New Mexico,39,38,52,35,54,48
+Quebec,35,36,49,51,53,49
+Montana,46,46,42,38,56,50
+South Dakota,50,51,48,49,44,51
+District of Columbia,49,49,51,49,44,51
+Saskatchewan,58,58,56,54,17,53
+British Columbia,43,43,54,53,55,54
+Newfoundland and Labrador,51,50,53,56,44,55
+Maine,54,54,55,55,39,56
+Vermont,48,48,58,58,58,57
+Prince Edward Island,52,52,57,56,56,58
+Wyoming,59,59,59,59,59,59

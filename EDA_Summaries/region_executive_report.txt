@@ -1,0 +1,115 @@
+============================================================
+EXECUTIVE REPORT - REGION-LEVEL SHIPPING PERFORMANCE
+Factory-to-Customer Shipping Route Efficiency Analysis
+Nassau Candy Distributor
+Generated: 2026-07-11 17:34
+============================================================
+
+============================================================
+EXECUTIVE SUMMARY
+============================================================
+This report presents a comprehensive region-level analysis of shipping performance across 4 regions served by Nassau Candy Distributor. The analysis covers total sales, gross profit, shipment volume, shipping lead time, delay rates, route efficiency and profit margin, and concludes with data-driven business recommendations. The region ranked #1 overall on a composite performance score is Pacific.
+
+============================================================
+KEY FINDINGS
+============================================================
+  - Highest Sales Region        : Pacific ($45,164.98)
+  - Highest Profit Region       : Pacific ($29,716.11)
+  - Fastest Shipping Region     : Atlantic (4.36 days avg)
+  - Slowest Shipping Region     : Interior (4.48 days avg)
+  - Lowest Delay Region         : Atlantic
+  - Highest Delay Region        : Interior
+  - Best Overall Region         : Pacific
+  - Total Revenue (all regions) : $138,284.12
+  - Total Gross Profit          : $91,076.41
+  - Overall Avg Lead Time       : 4.41 days
+
+============================================================
+REGIONAL RANKINGS
+============================================================
+  Rank 1: Pacific
+  Rank 2: Atlantic
+  Rank 3: Interior
+  Rank 4: Gulf
+
+============================================================
+STATISTICAL RESULTS (ANOVA)
+============================================================
+  - Sales: F=1.2012, p=0.307636 (Region effect significant: No)
+  - Gross Profit: F=1.419, p=0.235087 (Region effect significant: No)
+  - Shipping Lead Time (Simulated): F=2.1507, p=0.091644 (Region effect significant: No)
+
+============================================================
+BUSINESS INSIGHTS
+============================================================
+  - ANOVA — Sales: F=1.2012, p=0.307636 -> Region effect significant: No
+  - ANOVA — Gross Profit: F=1.419, p=0.235087 -> Region effect significant: No
+  - ANOVA — Shipping Lead Time (Simulated): F=2.1507, p=0.091644 -> Region effect significant: No
+  - Best Overall Ranked Region (composite score): Pacific
+  - Worst Overall Ranked Region (composite score): Gulf
+  - Highest Sales Region: Pacific ($45,164.98)
+  - Lowest Sales Region: Gulf ($21,681.60)
+  - Highest Profit Region: Pacific ($29,716.11)
+  - Lowest Profit Region: Gulf ($14,320.43)
+  - Highest Shipment Region: Pacific (3,156 orders = 31.9% of all)
+  - Lowest Shipment Region: Gulf (1,571 orders)
+  - Fastest Shipping Region: Atlantic (4.36 days avg lead time)
+  - Slowest Shipping Region: Interior (4.48 days avg lead time)
+  - Highest Delay Region: Interior (30.87% delayed)
+  - Lowest Delay Region: Atlantic (28.96% delayed)
+  - Best Profit Margin Region: Interior (66.84% avg margin)
+  - Highest Route Efficiency Region: Pacific
+  - Lowest Route Efficiency Region: Interior
+  - Best Overall Performing Region: Pacific
+  - Greatest Improvement Opportunity: Interior - high sales ($31,284.12) but above-median delay rate (30.87%)
+  - Combined Total Revenue (all regions): $138,284.12
+  - Combined Total Gross Profit (all regions): $91,076.41
+  - Overall Average Lead Time (all regions): 4.41 days
+
+============================================================
+RECOMMENDATIONS
+============================================================
+1. CARRIER OPTIMIZATION
+   Renegotiate carrier SLAs for Interior, Gulf — these regions record the longest average shipping lead times. Explore dedicated lane agreements or alternative carriers to close the gap with faster-performing regions.
+
+2. ROUTE OPTIMIZATION
+   Review factory-to-region routing for Interior, Gulf. Shifting volume toward faster ship modes on underperforming routes, or introducing direct factory-to-hub lanes, can meaningfully cut lead time without disproportionate cost increases.
+
+3. WAREHOUSE PLANNING
+   Evaluate a regional distribution hub serving Pacific, Atlantic to reduce last-mile lead times. Positioning a hub within the highest-volume region cluster can simultaneously shorten delivery distances and lower cross-country freight costs.
+
+4. INVENTORY DISTRIBUTION
+   Prioritize safety stock allocation toward Pacific, Atlantic — these regions generate the highest cumulative sales. Aligning inventory buffers with regional demand reduces stockout risk during peak periods.
+
+5. REGIONAL EXPANSION
+   Investigate low-penetration regions: Gulf, Interior. Determine whether low volume reflects genuine low demand or insufficient distribution reach, and consider targeted promotions or lower shipping thresholds to stimulate growth.
+
+6. DELAY REDUCTION
+   Regions with delay rates above 30%: Interior. Introduce real-time shipment tracking, build in buffer days for Standard Class shipments into these regions, and set up proactive exception alerts as orders approach SLA breach thresholds.
+
+7. CAPACITY PLANNING
+   Align fleet and carrier capacity with the highest-volume region to avoid bottlenecks during demand spikes, while preserving service levels on lower-volume regions through flexible surge-capacity agreements.
+
+8. COST REDUCTION
+   Cost concentration is highest in Pacific, Atlantic. Benchmark cost-per-unit against comparable routes and explore consolidation opportunities (e.g., full-truckload vs. LTL) to lower per-shipment costs in these regions.
+
+9. RESOURCE ALLOCATION
+   Direct field operations and account management resources toward Pacific, Atlantic — the top composite-ranked regions combining strong revenue, low delay rates, and high route efficiency. Protecting share in best-performing regions delivers the highest return on resource investment.
+
+10. CUSTOMER SERVICE IMPROVEMENT
+   Proactively communicate expected delivery windows to customers in Interior, Gulf, where delay rates are highest. Automated shipment status notifications and simplified escalation paths can offset the customer experience impact while root-cause fixes are implemented.
+
+============================================================
+CONCLUSION
+============================================================
+Regional shipping performance varies meaningfully across Nassau
+Candy Distributor's footprint. By concentrating resources on high-
+performing regions, addressing delay hotspots with targeted carrier
+and route interventions, and aligning warehouse and inventory
+strategy with regional demand patterns, the company can materially
+improve delivery reliability, control logistics costs, and support
+sustainable revenue growth across every region it serves.
+
+============================================================
+END OF REPORT
+============================================================

@@ -1,0 +1,9 @@
+Model,Task,Train_Score,Test_Score,Gap,Status
+random_forest,Classification,0.7332,0.6318,0.1014,Overfitting
+gradient_boosting,Classification,0.6880,0.6297,0.0583,Well Generalized
+logistic_regression,Classification,0.6439,0.6262,0.0177,Well Generalized
+decision_tree,Classification,0.6717,0.6141,0.0576,Well Generalized
+linear_regression,Regression,0.7116,0.7020,0.0096,Well Generalized
+gradient_boosting,Regression,0.7207,0.7005,0.0202,Well Generalized
+random_forest,Regression,0.7492,0.6986,0.0506,Well Generalized
+decision_tree,Regression,0.7251,0.6878,0.0373,Well Generalized

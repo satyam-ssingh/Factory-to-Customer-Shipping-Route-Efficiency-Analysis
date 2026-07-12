@@ -1,0 +1,5 @@
+Ship Mode,Avg_Lead_Time,Median_Lead_Time,Max_Lead_Time,Min_Lead_Time,Count
+Standard Class,5.48,5.00,7,4,5939
+Second Class,3.99,4.00,5,3,1921
+First Class,1.98,2.00,3,1,1494
+Same Day,0.51,1.00,1,0,527

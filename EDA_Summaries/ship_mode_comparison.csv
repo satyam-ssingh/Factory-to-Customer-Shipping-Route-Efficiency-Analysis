@@ -1,0 +1,5 @@
+Ship Mode,Total_Shipments,Total_Sales,Total_Gross_Profit,Average_Lead_Time,Average_Profit_Margin,On_Time_Rate_%,Moderate_Delay_%,Delay_Rate_%,Average,Excellent,Good,Poor
+Same Day,527,6927.63,4573.55,0.51,66.44,100.00,0.00,0.00,0.00,100.00,0.00,0.00
+First Class,1494,20692.79,13587.15,1.98,66.42,100.00,0.00,0.00,0.00,67.87,32.13,0.00
+Second Class,1921,27300.52,17928.58,3.99,66.43,34.10,65.90,0.00,32.64,0.00,67.36,0.00
+Standard Class,5939,83363.18,54987.13,5.48,66.52,0.00,50.77,49.23,49.91,0.00,25.54,24.55

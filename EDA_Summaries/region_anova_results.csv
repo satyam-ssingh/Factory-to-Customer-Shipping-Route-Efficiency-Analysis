@@ -1,0 +1,4 @@
+Metric,F-Statistic,P-Value,Significant (p<0.05)
+Sales,1.20,0.31,No
+Gross Profit,1.42,0.24,No
+Shipping Lead Time (Simulated),2.15,0.09,No

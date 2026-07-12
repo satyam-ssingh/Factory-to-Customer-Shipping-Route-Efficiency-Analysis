@@ -1,0 +1,98 @@
+======================================================================
+EXECUTIVE REPORT — MACHINE LEARNING MODEL EVALUATION
+Factory-to-Customer Shipping Route Efficiency Analysis
+Nassau Candy Distributor
+Generated: 2026-07-11 17:40
+======================================================================
+
+======================================================================
+EXECUTIVE SUMMARY
+======================================================================
+This report evaluates a classification suite predicting Delay Status (On Time / Moderate Delay / Delayed) and a regression suite predicting Shipping Lead Time (Simulated) for the Nassau Candy shipping analytics project. Models are scored on held-out test data, validated with cross-validation, and ranked on a composite score.
+
+======================================================================
+DATASET INFORMATION
+======================================================================
+  Source file            : featured_nassau_candy.csv
+  Total rows evaluated   : 9,881
+  Classification target  : Delay Status
+  Regression target      : Shipping Lead Time (Simulated)
+  Train/Test split       : 80/20
+  Cross-validation folds : 5
+
+======================================================================
+PERFORMANCE COMPARISON — CLASSIFICATION
+======================================================================
+              Model  Accuracy  Precision  Recall  F1_Score  ROC_AUC  Log_Loss  Cohens_Kappa    MCC  Train_Accuracy  Train_Test_Gap
+      random_forest    0.6318     0.6534  0.6318    0.6369   0.8263    0.5884        0.4231 0.4270          0.7332          0.1014
+  gradient_boosting    0.6297     0.6555  0.6297    0.6363   0.8249    0.5543        0.4200 0.4239          0.6880          0.0583
+logistic_regression    0.6262     0.6500  0.6262    0.6239   0.8193    0.5457        0.4055 0.4178          0.6439          0.0176
+      decision_tree    0.6141     0.6427  0.6141    0.6236   0.8125    0.9500        0.4005 0.4025          0.6717          0.0576
+
+======================================================================
+PERFORMANCE COMPARISON — REGRESSION
+======================================================================
+            Model    MAE    MSE   RMSE  R2_Score  MAPE_%  Train_R2  Train_Test_Gap
+linear_regression 0.8670 1.0082 1.0041    0.7020 23.8863    0.7116          0.0095
+gradient_boosting 0.8669 1.0135 1.0067    0.7005 23.9059    0.7207          0.0202
+    random_forest 0.8734 1.0199 1.0099    0.6986 24.1896    0.7492          0.0506
+    decision_tree 0.8860 1.0565 1.0279    0.6878 24.5271    0.7251          0.0373
+
+======================================================================
+STATISTICAL EVALUATION
+======================================================================
+Paired t-test comparing the top 2 ranked models on 5-fold CV F1 scores:
+  random_forest (mean F1=0.6286) vs gradient_boosting (mean F1=0.6373)
+  t-statistic=-1.4514, p-value=0.2203 -> difference is not statistically significant (alpha=0.05).
+
+======================================================================
+BUSINESS & MODEL INSIGHTS
+======================================================================
+  - Feature with Highest Importance (Classification): 'Ship Mode_Standard Class' (avg importance 1.2393)
+  - Feature with Highest Importance (Regression): 'Ship Mode_Standard Class' (avg importance 0.9587)
+  - Statistical comparison of top 2 models: difference is not statistically significant (p=0.2203).
+  - Overfitting detected — random_forest (Classification): train=0.733, test=0.632, gap=0.101
+  - Best Performing Classification Model: random_forest (F1=0.6369)
+  - Worst Performing Classification Model: decision_tree (F1=0.6236)
+  - Best Performing Regression Model: linear_regression (R2=0.7020)
+  - Best Generalization Model (smallest train-test gap): linear_regression (Regression), gap=0.0096
+
+======================================================================
+BEST MODEL SELECTION
+======================================================================
+  [Classification] Best Model: random_forest | Accuracy=0.6318 | F1=0.6369 | ROC_AUC=0.8263
+  [Regression] Best Model: linear_regression | R2=0.7020 | RMSE=1.0041 | MAE=0.8670
+
+======================================================================
+RECOMMENDATIONS
+======================================================================
+1. BEST MODEL FOR PRODUCTION
+   For Delay Status classification, 'random_forest' ranks #1 overall (F1=0.637). For Shipping Lead Time regression, 'linear_regression' ranks #1 overall (R2=0.702). Recommend staging + shadow-mode monitoring before full production rollout.
+
+2. HYPERPARAMETER TUNING SUGGESTIONS
+   random_forest show overfitting — reduce max_depth / n_estimators, add regularization. Use the same Stratified K-Fold / K-Fold scheme used in this evaluation.
+
+3. FEATURE ENGINEERING IMPROVEMENTS
+   'Ship Mode_Standard Class' is currently the most influential feature. Consider adding distance/geodesic proxy (Factory to customer State), carrier on-time history, and interaction features (Ship Mode x Region).
+
+4. DATA COLLECTION IMPROVEMENTS
+   Both targets in this model are derived from a SIMULATED shipping lead time (see 01_data_cleaning.py: the real Ship Date column is corrupted for 100% of records). Prioritize capturing real, validated ship-scan timestamps so future models learn from observed outcomes, not simulated ones.
+
+5. HANDLING CLASS IMBALANCE
+   If 'Delayed' / 'Moderate Delay' / 'On Time' classes are unevenly distributed, apply class_weight='balanced', or prefer F1/ROC-AUC (already used here) over raw Accuracy.
+
+6. MODEL DEPLOYMENT READINESS
+   Before production: wrap preprocessing + model in a single sklearn Pipeline, version model artifacts with metadata.json, and set up periodic re-evaluation against this same script as new shipment data arrives.
+
+======================================================================
+CONCLUSION
+======================================================================
+The top-ranked classification and regression models provide a solid,
+explainable baseline for production deployment. Because the underlying
+lead-time labels are currently simulated (see the 01_data_cleaning.py
+headline data-quality finding), model performance should be re-validated
+once genuine Ship Date data becomes available.
+
+======================================================================
+END OF REPORT
+======================================================================

@@ -1,0 +1,3 @@
+Task,Best_Model,Key_Metric_1,Key_Metric_2,Key_Metric_3
+Classification,random_forest,Accuracy=0.6318,F1=0.6369,ROC_AUC=0.8263
+Regression,linear_regression,R2=0.7020,RMSE=1.0041,MAE=0.8670

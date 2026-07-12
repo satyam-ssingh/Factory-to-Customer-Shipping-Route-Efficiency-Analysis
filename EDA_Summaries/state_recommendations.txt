@@ -1,0 +1,28 @@
+STATE-LEVEL BUSINESS RECOMMENDATIONS
+Factory-to-Customer Shipping Route Efficiency Analysis
+Nassau Candy Distributor
+============================================================
+
+1. INVENTORY ALLOCATION
+   Prioritize safety stock in California, New York, Texas — these states generate the highest cumulative sales. Aligning warehouse buffer levels with seasonal demand peaks in these markets will reduce stockout risk.
+
+2. CARRIER OPTIMIZATION
+   Renegotiate carrier SLAs or introduce alternative carriers for Wyoming, Vermont, Prince Edward Island, Saskatchewan, Maine — these states consistently record the longest average shipping lead times and are prime candidates for expedited or dedicated lane agreements.
+
+3. DELAY REDUCTION
+   States with delay rates above 35%: Wyoming, Vermont, Newfoundland and Labrador, Prince Edward Island, Maine. Introduce real-time shipment tracking, buffer days for Standard Class routes into these states, and set up proactive exception alerts for orders approaching the SLA breach threshold.
+
+4. WAREHOUSE PLANNING
+   Evaluate regional distribution center (DC) placement near California, New York, Texas, Pennsylvania, Washington to reduce last-mile lead times. A DC positioned centrally within the highest-volume cluster could simultaneously serve multiple top-10 states and reduce cross-country freight costs.
+
+5. ROUTE OPTIMIZATION
+   Review factory-to-state routing for Wyoming, Vermont, Prince Edward Island, Saskatchewan, Maine. Shifting volume from Standard Class to Second Class on these routes, or introducing direct factory-to-DC consolidation lanes, may yield meaningful lead-time reductions without proportional cost increases.
+
+6. COST REDUCTION
+   Total cost concentration is highest in California, New York, Texas, Pennsylvania, Washington. Conduct a cost-per-unit benchmark against comparable routes and identify consolidation opportunities (e.g., full-truckload vs. LTL) to lower per-shipment costs in these markets.
+
+7. REGIONAL EXPANSION
+   Low-penetration states: Wyoming, Saskatchewan, West Virginia, Nova Scotia, North Dakota. Assess whether these markets represent genuinely low demand or are simply under-served by current distribution infrastructure. A targeted promotional campaign combined with reduced shipping thresholds could stimulate incremental volume.
+
+8. RESOURCE ALLOCATION
+   Direct field sales and customer success resources towards Ohio, Colorado, California, Virginia, New York — the top composite-ranked states that combine strong revenue, low delay rates and high route efficiency. Protecting and expanding share in best-performing markets delivers the highest return on resource investment.

@@ -1,0 +1,25 @@
+Insight #,Insight
+1,"ANOVA — Sales: F=313.9925, p=0.0 -> Factory effect significant: Yes"
+2,"ANOVA — Gross Profit: F=199.2095, p=0.0 -> Factory effect significant: Yes"
+3,"ANOVA — Shipping Lead Time (Simulated): F=1.2604, p=0.283136 -> Factory effect significant: No"
+4,Best Overall Ranked Factory (composite score): Lot's O' Nuts
+5,Worst Overall Ranked Factory (composite score): The Other Factory
+6,"Highest Sales Factory: Lot's O' Nuts ($74,287.89)"
+7,Lowest Sales Factory: Sugar Shack ($220.98)
+8,"Highest Profit Factory: Lot's O' Nuts ($51,347.69)"
+9,Lowest Profit Factory: Sugar Shack ($121.23)
+10,"Highest Shipment Factory: Lot's O' Nuts (5,513 orders = 55.8% of all)"
+11,Lowest Shipment Factory: Sugar Shack (33 orders)
+12,Fastest Shipping Factory: Secret Factory (4.15 days avg lead time)
+13,Slowest Shipping Factory: Wicked Choccy's (4.42 days avg lead time)
+14,Highest Delay Factory: The Other Factory (32.00% delayed)
+15,Lowest Delay Factory: Sugar Shack (21.21% delayed)
+16,Best Profit Margin Factory: Lot's O' Nuts (69.16% avg margin)
+17,Highest Route Efficiency Factory: Sugar Shack
+18,Lowest Route Efficiency Factory: Wicked Choccy's
+19,Best Overall Performing Factory: Lot's O' Nuts
+20,Worst Overall Performing Factory: The Other Factory
+21,"Greatest Improvement Opportunity: Wicked Choccy's - high sales ($53,905.50) but above-median delay rate (29.99%)"
+22,"Combined Total Revenue (all factories): $138,284.12"
+23,"Combined Total Gross Profit (all factories): $91,076.41"
+24,Overall Average Lead Time (all factories): 4.32 days

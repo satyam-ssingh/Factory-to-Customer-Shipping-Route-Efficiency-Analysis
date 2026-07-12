@@ -1,0 +1,24 @@
+Insight #,Insight
+1,"ANOVA — Sales: F=1.2012, p=0.307636 -> Region effect significant: No"
+2,"ANOVA — Gross Profit: F=1.419, p=0.235087 -> Region effect significant: No"
+3,"ANOVA — Shipping Lead Time (Simulated): F=2.1507, p=0.091644 -> Region effect significant: No"
+4,Best Overall Ranked Region (composite score): Pacific
+5,Worst Overall Ranked Region (composite score): Gulf
+6,"Highest Sales Region: Pacific ($45,164.98)"
+7,"Lowest Sales Region: Gulf ($21,681.60)"
+8,"Highest Profit Region: Pacific ($29,716.11)"
+9,"Lowest Profit Region: Gulf ($14,320.43)"
+10,"Highest Shipment Region: Pacific (3,156 orders = 31.9% of all)"
+11,"Lowest Shipment Region: Gulf (1,571 orders)"
+12,Fastest Shipping Region: Atlantic (4.36 days avg lead time)
+13,Slowest Shipping Region: Interior (4.48 days avg lead time)
+14,Highest Delay Region: Interior (30.87% delayed)
+15,Lowest Delay Region: Atlantic (28.96% delayed)
+16,Best Profit Margin Region: Interior (66.84% avg margin)
+17,Highest Route Efficiency Region: Pacific
+18,Lowest Route Efficiency Region: Interior
+19,Best Overall Performing Region: Pacific
+20,"Greatest Improvement Opportunity: Interior - high sales ($31,284.12) but above-median delay rate (30.87%)"
+21,"Combined Total Revenue (all regions): $138,284.12"
+22,"Combined Total Gross Profit (all regions): $91,076.41"
+23,Overall Average Lead Time (all regions): 4.41 days

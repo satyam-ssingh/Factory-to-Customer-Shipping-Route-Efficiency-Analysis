@@ -1,0 +1,34 @@
+FACTORY-LEVEL BUSINESS RECOMMENDATIONS
+Factory-to-Customer Shipping Route Efficiency Analysis
+Nassau Candy Distributor
+============================================================
+
+1. FACTORY OPTIMIZATION
+   'Lot's O' Nuts' delivers the strongest composite performance across sales, profit, speed and reliability — use it as the benchmark for process standardization. 'The Other Factory' ranks lowest overall and should be reviewed for operational bottlenecks, staffing, or packaging/dispatch inefficiencies.
+
+2. CARRIER ALLOCATION
+   Renegotiate carrier SLAs or introduce alternative carriers for Wicked Choccy's, Lot's O' Nuts — these factories record the longest average shipping lead times and are prime candidates for dedicated lane agreements or expedited-shipping partnerships.
+
+3. WAREHOUSE PLANNING
+   Evaluate additional staging/consolidation capacity near Lot's O' Nuts, Wicked Choccy's — these factories handle the highest shipment volumes and would benefit most from streamlined outbound logistics.
+
+4. INVENTORY DISTRIBUTION
+   Prioritize raw-material and packaging stock allocation toward Lot's O' Nuts, Wicked Choccy's — these factories generate the highest cumulative sales and are most sensitive to stockout risk during peak demand periods.
+
+5. DELAY REDUCTION
+   Factories with delay rates above 30%: The Other Factory. Introduce real-time shipment tracking, build buffer days into Standard Class dispatch schedules, and set up proactive exception alerts as orders approach SLA breach thresholds.
+
+6. COST REDUCTION
+   Cost concentration is highest at Lot's O' Nuts, Wicked Choccy's. Benchmark cost-per-unit against comparable factories and explore consolidation opportunities (e.g., full-truckload vs. LTL shipments) to lower per-shipment costs.
+
+7. PRODUCTION PLANNING
+   Sugar Shack, Lot's O' Nuts handle the widest product range. Align production scheduling and SKU prioritization at these sites with demand forecasts to reduce changeover time and improve on-time dispatch.
+
+8. CAPACITY PLANNING
+   Align staffing and dispatch capacity with the highest-volume factory to avoid bottlenecks during demand spikes, while maintaining flexible surge-capacity agreements for lower-volume factories.
+
+9. RESOURCE ALLOCATION
+   Direct operational investment and management attention toward Lot's O' Nuts, Secret Factory — the top composite-ranked factories combining strong revenue, low delay rates and high route efficiency. Protecting and scaling best-performing factories delivers the highest return on investment.
+
+10. CUSTOMER SERVICE IMPROVEMENT
+   Proactively communicate expected delivery windows for orders originating from The Other Factory, Wicked Choccy's, where delay rates are highest. Automated shipment status notifications and simplified escalation paths can offset customer experience impact while root-cause fixes are implemented.

@@ -1,0 +1,14 @@
+SHIP MODE BUSINESS RECOMMENDATIONS
+============================================================
+
+1. Best Overall Ship Mode: 'Second Class' delivers the strongest balance of sales, profit, speed and reliability. Prioritize this mode for high-value or time-sensitive shipments.
+
+2. Worst Overall Ship Mode: 'Standard Class' ranks lowest across the composite KPI score. Review its cost structure, carrier performance, and routing logic.
+
+3. Delay Reduction: Standard Class show High delay risk. Consider renegotiating carrier SLAs, adding buffer capacity during peak periods, or shifting volume to faster alternatives.
+
+4. Profit Improvement: 'First Class' has the lowest average profit margin (66.42%). Investigate cost-to-serve and consider targeted pricing or cost-reduction initiatives for this mode.
+
+5. Route Optimization: 'Standard Class' has the longest average lead time (5.48 days) versus 'Same Day' at 0.51 days. Re-evaluate routing and carrier allocation on the slowest factory-to-state routes within this mode.
+
+6. Capacity Planning: align fleet/carrier capacity with the highest-volume Ship Mode to avoid bottlenecks during demand spikes, while maintaining service levels on lower-volume, premium modes.
