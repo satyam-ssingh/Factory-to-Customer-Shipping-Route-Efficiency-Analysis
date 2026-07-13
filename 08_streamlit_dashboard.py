@@ -1240,8 +1240,11 @@ def main() -> None:
         st.exception(exc)
 
     st.markdown(
-        '<div class="footer-note">Nassau Candy Distributor · Factory-to-Customer Shipping Route '
-        'Efficiency Analysis · Built with Streamlit &amp; Plotly</div>',
+        '<div class="footer-note">'
+        'Nassau Candy Distributor · Factory-to-Customer Shipping Route Efficiency Analysis '
+        '· Built with Streamlit &amp; Plotly'
+        '<br><strong>Developed by Satyam Kumar Singh</strong>'
+        '</div>',
         unsafe_allow_html=True,
     )
 
