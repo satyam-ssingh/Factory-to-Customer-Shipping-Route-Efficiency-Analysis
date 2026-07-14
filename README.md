@@ -61,7 +61,6 @@ Raw Dataset
       │
       ▼
 Data Cleaning
-![Architecture Diagram](docs/architecture_diagram.png)
       │
       ▼
 Feature Engineering
@@ -91,7 +90,6 @@ Business Recommendations
 # 📂 Project Structure
 
 ## 🗂 Entity Relationship Diagram
-   ![ER Diagram](docs/er_diagram.png)
 ```text
 Factory-to-Customer-Shipping-Route-Efficiency-Analysis/
 
