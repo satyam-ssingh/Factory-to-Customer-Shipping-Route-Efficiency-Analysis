@@ -440,7 +440,7 @@ Shipping Lead Time
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/factory-to-customer-shipping-route-efficiency-analysis.git
+git clone https://https://github.com/satyam-ssingh/Factory-to-Customer-Shipping-Route-Efficiency-Analysis
 ```
 
 ### Install Dependencies
