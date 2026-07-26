@@ -518,6 +518,16 @@ def render_factory_map(df: pd.DataFrame) -> None:
 # FILTERS
 # ════════════════════════════════════════════════════════════════
 
+def _reset_filters_callback() -> None:
+    """Bumps the filter-widget 'version'. Every widget key below is suffixed
+    with this version number, so after a reset the widgets get a brand-new
+    key and Streamlit throws away the old widget instance entirely and
+    creates a fresh one at its default (empty) value. This is more robust
+    than deleting the old session_state entries, because it can't be
+    affected by any leftover client-side widget state tied to the old key."""
+    st.session_state["filter_version"] = st.session_state.get("filter_version", 0) + 1
+
+
 def build_sidebar_filters(df: pd.DataFrame) -> dict:
     """Render global filter widgets in the sidebar and return selected values."""
     st.sidebar.markdown("### 🔧 Global Filters")
@@ -529,40 +539,49 @@ def build_sidebar_filters(df: pd.DataFrame) -> dict:
         st.sidebar.info("Load data to enable filters.")
         return filters
 
+    v = st.session_state.get("filter_version", 0)
+
     with st.sidebar.expander("📍 Geography", expanded=False):
         if "State/Province" in df.columns:
             filters["State/Province"] = st.multiselect(
-                "State / Province", sorted(df["State/Province"].dropna().unique()), default=[]
+                "State / Province", sorted(df["State/Province"].dropna().unique()),
+                default=[], key=f"flt_state_v{v}"
             )
         if "Region" in df.columns:
             filters["Region"] = st.multiselect(
-                "Region", sorted(df["Region"].dropna().unique()), default=[]
+                "Region", sorted(df["Region"].dropna().unique()),
+                default=[], key=f"flt_region_v{v}"
             )
 
     with st.sidebar.expander("🏭 Operations", expanded=False):
         if "Factory" in df.columns:
             filters["Factory"] = st.multiselect(
-                "Factory", sorted(df["Factory"].dropna().unique()), default=[]
+                "Factory", sorted(df["Factory"].dropna().unique()),
+                default=[], key=f"flt_factory_v{v}"
             )
         if "Ship Mode" in df.columns:
             filters["Ship Mode"] = st.multiselect(
-                "Ship Mode", order_categories(df["Ship Mode"].dropna().unique(), SHIP_MODE_ORDER), default=[]
+                "Ship Mode", order_categories(df["Ship Mode"].dropna().unique(), SHIP_MODE_ORDER),
+                default=[], key=f"flt_ship_mode_v{v}"
             )
 
     with st.sidebar.expander("⏱️ Performance", expanded=False):
         if DELAY_COL in df.columns:
             filters["Delay Status"] = st.multiselect(
-                "Delay Status", ["On Time", "Moderate Delay", "Delayed"], default=[]
+                "Delay Status", ["On Time", "Moderate Delay", "Delayed"],
+                default=[], key=f"flt_delay_v{v}"
             )
         if EFF_COL in df.columns:
             filters["Route Efficiency Score"] = st.multiselect(
-                "Route Efficiency Score", EFF_ORDER, default=[]
+                "Route Efficiency Score", EFF_ORDER,
+                default=[], key=f"flt_efficiency_v{v}"
             )
         if LEAD_TIME_COL in df.columns:                              # ← NEW BLOCK START
             max_lt = int(df[LEAD_TIME_COL].max()) if df[LEAD_TIME_COL].notna().any() else 10
             filters["Lead Time Threshold"] = st.slider(
                 "Max Lead Time (days)", min_value=0, max_value=max_lt,
-                value=max_lt, help="Show only shipments with lead time ≤ this value"
+                value=max_lt, help="Show only shipments with lead time ≤ this value",
+                key=f"flt_lead_time_v{v}"
             )                                                         # ← NEW BLOCK END
 
     with st.sidebar.expander("📅 Date Range", expanded=False):
@@ -570,12 +589,12 @@ def build_sidebar_filters(df: pd.DataFrame) -> dict:
             min_d = df["Order Date"].min().date()
             max_d = df["Order Date"].max().date()
             date_range = st.date_input(
-                "Order Date Range", value=(min_d, max_d), min_value=min_d, max_value=max_d
+                "Order Date Range", value=(min_d, max_d), min_value=min_d, max_value=max_d,
+                key=f"flt_date_range_v{v}"
             )
             filters["Order Date"] = date_range
 
-    if st.sidebar.button("♻️ Reset Filters"):
-        st.rerun()
+    st.sidebar.button("♻️ Reset Filters", on_click=_reset_filters_callback, key="btn_reset_filters")
 
     return filters
 
